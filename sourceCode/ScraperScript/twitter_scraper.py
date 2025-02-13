@@ -11,6 +11,7 @@ from concurrent.futures import ThreadPoolExecutor
 from config import *
 import schedule
 import logging
+import random
 from functools import partial
 
 
@@ -154,11 +155,10 @@ class TweetDatabase:
 class TwitterScraper:
     """Handles scraping of tweets from the Twitter API."""
 
-    def __init__(self, get_tweet_url: str,get_user_url:str, cookies: Dict[str, str], headers: Dict[str, str], get_tweet_features: str,get_user_features:str, tweet_fieldToggles: Optional[str] = None, user_fieldToggles: Optional[str] = None, log_file: str = "../sourceCode/Log/twitter_scraper.log"):
+    def __init__(self, get_tweet_url: str,get_user_url:str, auth: List[List[Any]] , get_tweet_features: str,get_user_features:str, tweet_fieldToggles: Optional[str] = None, user_fieldToggles: Optional[str] = None, log_file: str = "../sourceCode/Log/twitter_scraper.log"):
         self.tweet_url = get_tweet_url
         self.user_url = get_user_url
-        self.cookies = cookies
-        self.headers = headers
+        self.auth = auth
         self.get_tweet_features = get_tweet_features
         self.get_user_features = get_user_features
         self.tweet_fieldToggles = tweet_fieldToggles
@@ -201,7 +201,8 @@ class TwitterScraper:
     def fetch(self,url:str, params: Dict[str, Any]) -> Dict[str, Any]:
         """Fetch tweets from the Twitter API."""
         try:
-            response = requests.get(url, params=params, cookies=self.cookies, headers=self.headers)
+            auth = random.shuffle(self.auth)
+            response = requests.get(url, params=params, cookies=auth[0], headers=auth[1])
             response.raise_for_status()
 
             return response.json()
@@ -266,14 +267,14 @@ class TwitterScraper:
     
 
     # Done 
-    def parse_tweet(self, tweet_results: dict) -> Optional[Dict[str, Any]]:
+    def parse_tweet(self,tweet_id, tweet_results: dict) -> Optional[Dict[str, Any]]:
         """Parse individual tweet data."""
         try:
             tweet_content = tweet_results['legacy']
             user_content = tweet_results['core']['user_results']['result']['legacy']
 
             return {
-                "tweet_id": tweet_content['id_str'],
+                "tweet_id": tweet_id,
                 "tweet_full_text": tweet_content['full_text'],
                 "tweet_favorite_count": tweet_content['favorite_count'],
                 "tweet_view_count": tweet_results.get('views', {}).get('count', 0),
@@ -365,7 +366,7 @@ class TwitterScraper:
 
 def main():
     # Set database path and API configurations
-    twitter_scraper = TwitterScraper(get_tweet_url, get_user_url, cookies, headers, get_tweet_features, get_user_features, tweet_fieldToggles, user_fieldToggles)
+    twitter_scraper = TwitterScraper(get_tweet_url, get_user_url, auth, get_tweet_features, get_user_features, tweet_fieldToggles, user_fieldToggles)
     db = TweetDatabase(DB_PATH)
     twitter_scraper.start(db)
 

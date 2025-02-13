@@ -26778,3 +26778,136 @@ Stopped monitoring.
 2025-02-13 12:47:19,950 - INFO - Processing blocks from 21835273 to 21835273
 2025-02-13 12:47:21,205 - ERROR - Error processing token at 0x1D60Db1679c561c9772e027Aa63f4a473Fd71dAC: Could not transact with/call contract function, is contract deployed correctly and chain synced?
 2025-02-13 12:47:31,662 - INFO - Processing blocks from 21835274 to 21835274
+2025-02-13 12:47:42,395 - INFO - Processing blocks from 21835275 to 21835275
+2025-02-13 12:47:53,112 - INFO - Processing blocks from 21835276 to 21835276
+2025-02-13 12:47:54,999 - ERROR - Error processing token at 0xe4E3fE7394a297ED18aaFdFE047F205C492c5271: execution reverted
+2025-02-13 12:48:05,450 - INFO - Processing blocks from 21835277 to 21835277
+2025-02-13 12:48:07,292 - ERROR - Error processing token at 0xf76A5548ddB3f862CBed3A91545096c4e83c3926: execution reverted
+2025-02-13 12:48:17,747 - INFO - Processing blocks from 21835278 to 21835278
+2025-02-13 12:48:28,543 - INFO - Processing blocks from 21835279 to 21835279
+2025-02-13 12:48:39,273 - INFO - Processing blocks from 21835280 to 21835280
+2025-02-13 12:48:50,016 - INFO - Processing blocks from 21835281 to 21835281
+2025-02-13 12:49:11,356 - INFO - Processing blocks from 21835282 to 21835282
+2025-02-13 12:49:22,139 - INFO - Processing blocks from 21835283 to 21835283
+2025-02-13 12:49:32,899 - INFO - Processing blocks from 21835284 to 21835284
+2025-02-13 12:49:43,931 - INFO - Processing blocks from 21835285 to 21835285
+2025-02-13 12:49:55,100 - INFO - Processing blocks from 21835286 to 21835286
+2025-02-13 12:50:07,058 - INFO - Processing blocks from 21835287 to 21835287
+2025-02-13 12:50:18,491 - INFO - Processing blocks from 21835288 to 21835288
+2025-02-13 12:50:29,372 - INFO - Processing blocks from 21835289 to 21835289
+2025-02-13 12:50:40,277 - INFO - Processing blocks from 21835290 to 21835290
+2025-02-13 12:50:51,136 - INFO - Processing blocks from 21835291 to 21835291
+2025-02-13 12:51:01,963 - INFO - Processing blocks from 21835292 to 21835292
+2025-02-13 12:51:23,171 - INFO - Processing blocks from 21835293 to 21835293
+2025-02-13 12:51:33,926 - INFO - Processing blocks from 21835294 to 21835294
+2025-02-13 12:51:44,678 - INFO - Processing blocks from 21835295 to 21835295
+2025-02-13 12:51:55,681 - INFO - Processing blocks from 21835296 to 21835296
+2025-02-13 12:52:06,444 - INFO - Processing blocks from 21835297 to 21835297
+2025-02-13 12:52:17,164 - INFO - Processing blocks from 21835298 to 21835298
+2025-02-13 12:52:27,902 - INFO - Processing blocks from 21835299 to 21835299
+2025-02-13 12:52:38,848 - INFO - Processing blocks from 21835300 to 21835300
+2025-02-13 12:52:49,692 - INFO - Processing blocks from 21835301 to 21835301
+2025-02-13 12:53:10,885 - INFO - Processing blocks from 21835302 to 21835302
+2025-02-13 12:53:21,648 - INFO - Processing blocks from 21835303 to 21835303
+2025-02-13 12:53:32,367 - INFO - Processing blocks from 21835304 to 21835304
+2025-02-13 12:53:43,203 - INFO - Processing blocks from 21835305 to 21835305
+2025-02-13 12:53:54,198 - INFO - Processing blocks from 21835306 to 21835306
+2025-02-13 12:54:05,015 - INFO - Processing blocks from 21835307 to 21835307
+2025-02-13 12:54:15,756 - INFO - Processing blocks from 21835308 to 21835308
+2025-02-13 12:54:26,511 - INFO - Processing blocks from 21835309 to 21835309
+2025-02-13 12:54:37,431 - INFO - Processing blocks from 21835310 to 21835310
+2025-02-13 12:54:58,485 - INFO - Processing blocks from 21835311 to 21835311
+2025-02-13 12:55:09,250 - INFO - Processing blocks from 21835312 to 21835312
+2025-02-13 12:55:20,050 - INFO - Processing blocks from 21835313 to 21835313
+2025-02-13 12:55:30,827 - INFO - Processing blocks from 21835314 to 21835314
+2025-02-13 12:55:41,561 - INFO - Processing blocks from 21835315 to 21835315
+2025-02-13 12:55:52,684 - INFO - Processing blocks from 21835316 to 21835316
+2025-02-13 12:56:03,477 - INFO - Processing blocks from 21835317 to 21835317
+2025-02-13 12:56:14,496 - INFO - Processing blocks from 21835318 to 21835318
+2025-02-13 12:56:25,394 - INFO - Processing blocks from 21835319 to 21835319
+2025-02-13 12:56:26,962 - ERROR - Error processing token at 0xDbC14cCABC542265980ed764969BBE492ac45F25: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-02-13 12:56:47,645 - INFO - Processing blocks from 21835320 to 21835320
+2025-02-13 12:56:58,412 - INFO - Processing blocks from 21835321 to 21835321
+2025-02-13 12:57:09,150 - INFO - Processing blocks from 21835322 to 21835322
+2025-02-13 12:57:19,894 - INFO - Processing blocks from 21835323 to 21835323
+2025-02-13 12:57:30,795 - INFO - Processing blocks from 21835324 to 21835324
+2025-02-13 12:57:41,518 - INFO - Processing blocks from 21835325 to 21835325
+2025-02-13 12:57:52,243 - INFO - Processing blocks from 21835326 to 21835326
+2025-02-13 12:58:03,215 - INFO - Processing blocks from 21835327 to 21835327
+2025-02-13 12:58:13,990 - INFO - Processing blocks from 21835328 to 21835328
+2025-02-13 12:58:35,368 - INFO - Processing blocks from 21835329 to 21835329
+2025-02-13 12:58:46,290 - INFO - Processing blocks from 21835330 to 21835330
+2025-02-13 12:58:57,281 - INFO - Processing blocks from 21835331 to 21835331
+2025-02-13 12:59:07,978 - INFO - Processing blocks from 21835332 to 21835332
+2025-02-13 12:59:18,936 - INFO - Processing blocks from 21835333 to 21835333
+2025-02-13 12:59:29,892 - INFO - Processing blocks from 21835334 to 21835334
+2025-02-13 12:59:40,670 - INFO - Processing blocks from 21835335 to 21835335
+2025-02-13 12:59:51,386 - INFO - Processing blocks from 21835336 to 21835336
+2025-02-13 13:00:02,117 - INFO - Processing blocks from 21835337 to 21835337
+2025-02-13 13:00:23,089 - INFO - Processing blocks from 21835338 to 21835338
+2025-02-13 13:00:34,144 - INFO - Processing blocks from 21835339 to 21835339
+2025-02-13 13:00:45,278 - INFO - Processing blocks from 21835340 to 21835340
+2025-02-13 13:00:56,515 - INFO - Processing blocks from 21835341 to 21835341
+2025-02-13 13:01:07,497 - INFO - Processing blocks from 21835342 to 21835342
+2025-02-13 13:01:18,295 - INFO - Processing blocks from 21835343 to 21835343
+2025-02-13 13:01:29,057 - INFO - Processing blocks from 21835344 to 21835344
+2025-02-13 13:01:40,012 - INFO - Processing blocks from 21835345 to 21835345
+2025-02-13 13:01:51,016 - INFO - Processing blocks from 21835346 to 21835346
+2025-02-13 13:02:01,731 - INFO - Processing blocks from 21835347 to 21835347
+2025-02-13 13:02:22,685 - INFO - Processing blocks from 21835348 to 21835348
+2025-02-13 13:02:33,469 - INFO - Processing blocks from 21835349 to 21835349
+2025-02-13 13:02:44,203 - INFO - Processing blocks from 21835350 to 21835350
+2025-02-13 13:02:55,270 - INFO - Processing blocks from 21835351 to 21835351
+2025-02-13 13:02:56,282 - ERROR - Error processing token at 0x910790d62e496327Ba6e742445c1Ac6597045d1F: execution reverted
+2025-02-13 13:03:06,723 - INFO - Processing blocks from 21835352 to 21835352
+2025-02-13 13:03:17,457 - INFO - Processing blocks from 21835353 to 21835353
+2025-02-13 13:03:28,171 - INFO - Processing blocks from 21835354 to 21835354
+2025-02-13 13:03:39,131 - INFO - Processing blocks from 21835355 to 21835355
+2025-02-13 13:03:50,279 - INFO - Processing blocks from 21835356 to 21835356
+2025-02-13 13:04:11,234 - INFO - Processing blocks from 21835357 to 21835357
+2025-02-13 13:04:22,181 - INFO - Processing blocks from 21835358 to 21835358
+2025-02-13 13:04:43,121 - INFO - Processing blocks from 21835359 to 21835359
+2025-02-13 13:04:54,120 - INFO - Processing blocks from 21835360 to 21835360
+2025-02-13 13:05:04,838 - INFO - Processing blocks from 21835361 to 21835361
+2025-02-13 13:05:15,747 - INFO - Processing blocks from 21835362 to 21835362
+2025-02-13 13:05:26,743 - INFO - Processing blocks from 21835363 to 21835363
+2025-02-13 13:05:37,706 - INFO - Processing blocks from 21835364 to 21835364
+2025-02-13 13:05:58,724 - INFO - Processing blocks from 21835365 to 21835365
+2025-02-13 13:06:09,481 - INFO - Processing blocks from 21835366 to 21835366
+2025-02-13 13:06:12,173 - INFO - Token MAIAR (MAIAR) created in block 21835366 Creator: 0x085547e546E893529485768d8EE51E15daEfe40a
+2025-02-13 13:06:12,180 - INFO - Token MAIAR (MAIAR) stored in database.
+2025-02-13 13:06:22,628 - INFO - Processing blocks from 21835367 to 21835367
+2025-02-13 13:06:33,438 - INFO - Processing blocks from 21835368 to 21835368
+2025-02-13 13:06:34,384 - ERROR - Error processing token at 0x37B8b9470645cc5283Dbd5FA27092eFEAbA366dF: execution reverted
+2025-02-13 13:06:44,827 - INFO - Processing blocks from 21835369 to 21835369
+2025-02-13 13:06:55,794 - INFO - Processing blocks from 21835370 to 21835370
+2025-02-13 13:06:56,727 - ERROR - Error processing token at 0xc8dB9B4695177Ce94955e6bBc4c30081Ebd4312a: execution reverted
+2025-02-13 13:07:07,178 - INFO - Processing blocks from 21835371 to 21835371
+2025-02-13 13:07:18,532 - INFO - Processing blocks from 21835372 to 21835372
+2025-02-13 13:07:30,787 - INFO - Processing blocks from 21835373 to 21835373
+2025-02-13 13:07:41,804 - INFO - Processing blocks from 21835374 to 21835374
+2025-02-13 13:07:52,887 - INFO - Processing blocks from 21835375 to 21835375
+2025-02-13 13:08:03,644 - INFO - Processing blocks from 21835376 to 21835376
+2025-02-13 13:08:04,887 - ERROR - Error processing token at 0x6C6EDF16Cf08110499e3Cc3bF274cD5F517600FC: execution reverted
+2025-02-13 13:08:15,321 - INFO - Processing blocks from 21835377 to 21835377
+2025-02-13 13:08:26,317 - INFO - Processing blocks from 21835378 to 21835378
+2025-02-13 13:08:47,295 - INFO - Processing blocks from 21835379 to 21835379
+2025-02-13 13:08:58,019 - INFO - Processing blocks from 21835380 to 21835380
+2025-02-13 13:09:08,782 - INFO - Processing blocks from 21835381 to 21835381
+2025-02-13 13:09:19,586 - INFO - Processing blocks from 21835382 to 21835382
+2025-02-13 13:09:20,574 - ERROR - Error processing token at 0xde09166f86A91Da9dd45f38758f1b120a52EEDdc: execution reverted
+2025-02-13 13:09:31,023 - INFO - Processing blocks from 21835383 to 21835383
+2025-02-13 13:09:33,063 - ERROR - Error processing token at 0x128452cb33ba321f09004B299D9843c701D8E036: execution reverted
+2025-02-13 13:09:43,496 - INFO - Processing blocks from 21835384 to 21835384
+2025-02-13 13:09:44,473 - ERROR - Error processing token at 0x709EdB3b55267519Eb860b2FD3a7011Ff9c0428A: execution reverted
+2025-02-13 13:09:54,908 - INFO - Processing blocks from 21835385 to 21835385
+2025-02-13 13:10:05,660 - INFO - Processing blocks from 21835386 to 21835386
+2025-02-13 13:10:16,403 - INFO - Processing blocks from 21835387 to 21835387
+2025-02-13 13:10:27,394 - INFO - Processing blocks from 21835388 to 21835388
+2025-02-13 13:10:58,598 - INFO - Processing blocks from 21835389 to 21835389
+2025-02-13 13:11:09,379 - INFO - Processing blocks from 21835390 to 21835390
+2025-02-13 13:11:20,112 - INFO - Processing blocks from 21835391 to 21835391
+2025-02-13 13:11:30,884 - INFO - Processing blocks from 21835392 to 21835392
+2025-02-13 13:11:41,622 - INFO - Processing blocks from 21835393 to 21835393
+2025-02-13 13:11:52,452 - INFO - Processing blocks from 21835394 to 21835394
+2025-02-13 13:12:03,225 - INFO - Processing blocks from 21835395 to 21835395
