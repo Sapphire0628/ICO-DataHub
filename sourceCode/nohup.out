@@ -1,0 +1,24 @@
+Traceback (most recent call last):
+  File "/Users/sapphire/Documents/2025SemB/CS6520Project/ICO-DataHub/sourceCode/ScraperScript/twitter_scraper.py", line 374, in <module>
+    main()
+  File "/Users/sapphire/Documents/2025SemB/CS6520Project/ICO-DataHub/sourceCode/ScraperScript/twitter_scraper.py", line 370, in main
+    twitter_scraper.start(db)
+  File "/Users/sapphire/Documents/2025SemB/CS6520Project/ICO-DataHub/sourceCode/ScraperScript/twitter_scraper.py", line 363, in start
+    schedule.run_pending()
+  File "/Users/sapphire/miniforge3/envs/w3/lib/python3.9/site-packages/schedule/__init__.py", line 854, in run_pending
+    default_scheduler.run_pending()
+  File "/Users/sapphire/miniforge3/envs/w3/lib/python3.9/site-packages/schedule/__init__.py", line 101, in run_pending
+    self._run_job(job)
+  File "/Users/sapphire/miniforge3/envs/w3/lib/python3.9/site-packages/schedule/__init__.py", line 173, in _run_job
+    ret = job.run()
+  File "/Users/sapphire/miniforge3/envs/w3/lib/python3.9/site-packages/schedule/__init__.py", line 691, in run
+    ret = self.job_func()
+  File "/Users/sapphire/Documents/2025SemB/CS6520Project/ICO-DataHub/sourceCode/ScraperScript/twitter_scraper.py", line 359, in <lambda>
+    schedule.every(5).minutes.do(lambda: self.scrape_tweets_periodically(db))
+  File "/Users/sapphire/Documents/2025SemB/CS6520Project/ICO-DataHub/sourceCode/ScraperScript/twitter_scraper.py", line 338, in scrape_tweets_periodically
+    latest_tweets = self.get_latest_tweets(user_id, 30)
+  File "/Users/sapphire/Documents/2025SemB/CS6520Project/ICO-DataHub/sourceCode/ScraperScript/twitter_scraper.py", line 262, in get_latest_tweets
+    return self.process_tweet_response(response_entries)
+  File "/Users/sapphire/Documents/2025SemB/CS6520Project/ICO-DataHub/sourceCode/ScraperScript/twitter_scraper.py", line 308, in process_tweet_response
+    parsed_tweet = self.parse_tweet(entry_id, entry['content']['itemContent']['tweet_results']['result'])
+TypeError: parse_tweet() takes 2 positional arguments but 3 were given
