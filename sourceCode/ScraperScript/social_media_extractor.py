@@ -110,39 +110,57 @@ class SocialMediaExtractor:
                     WHERE ContractAddress = ?
                 """, (contract_address,))
                 token_data = cursor.fetchone()
+            
 
-                if token_data:
 
-                    updates = []
+               
+                updates = []
+                # Skip if no token data exists
+                if token_data is None:
+                    logging.warning(f"No token data found for ContractAddress: {contract_address}")
+                    continue
 
-                    if  token_data[0]  != None and twitter_url:
-                        updates.append(("TwitterUrl", twitter_url))
-                    if token_data[1] != None and twitter_url:
 
-                        twitter_user = re.search(r"^https:\/\/(?:x\.com|twitter\.com)\/([a-zA-Z0-9_]+)$", twitter_url).group(1)
-                        
+
+                if  token_data[0] is None and twitter_url:
+                    
+                    updates.append(("TwitterUrl", twitter_url))
+                    print(twitter_url)
+                if token_data[1] is None and twitter_url:
+            
+                    twitter_user = re.search(r"^https:\/\/(?:x\.com|twitter\.com)\/([a-zA-Z0-9_]+)$", twitter_url)
+                    if twitter_user:
+                        twitter_user = twitter_user.group(1)  # Extract username
                         updates.append(("TwitterUser", twitter_user))
+                        print(twitter_user)
 
 
-                    if not token_data[2] != None and website_url:
-                        updates.append(("WebsiteUrl", website_url))
-                    if not token_data[3] != None and telegram_url:
-                        updates.append(("TelegramUrl", telegram_url))
+                if token_data[2] is None and website_url:
+                    updates.append(("WebsiteUrl", website_url))
+                if token_data[3] is None and telegram_url:
+                    updates.append(("TelegramUrl", telegram_url))
 
-                    # Apply updates only if there are changes
-                    for column, value in updates:
-                        cursor.execute(f"""
-                            UPDATE tokens
-                            SET {column} = ?
-                            WHERE ContractAddress = ?
-                        """, (value, contract_address))
+                # Apply updates only if there are changes
+                for column, value in updates:
+                    # Ensure value is a valid SQLite type
+                    if not isinstance(value, (str, type(None))):
+                        raise ValueError(f"Invalid data type for column {column}: {type(value)}")
+                            
+                    cursor.execute(f"""
+                        UPDATE tokens
+                        SET {column} = ?
+                        WHERE ContractAddress = ?
+                    """, (value, contract_address))
 
-                        conn.commit()
+                    conn.commit()
             logging.info("Tokens table updated successfully.")
             time.sleep(60)
 
         except sqlite3.Error as e:
             logging.error(f"An error occurred: {e}")
+
+        except ValueError as ve:
+            logging.error(f"Data validation error: {ve}")
 
 
     def start(self):
@@ -155,6 +173,7 @@ class SocialMediaExtractor:
         # Run the scheduler
         while True:
             self.update_tokens_table()
+            time.sleep(60)
 
 
 

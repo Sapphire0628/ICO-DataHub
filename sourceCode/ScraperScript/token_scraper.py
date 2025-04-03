@@ -46,7 +46,7 @@ class TokenScraper:
                 cursor.execute(
                     """
                     INSERT OR IGNORE INTO tokens 
-                    (ContractAddress,creator, TokenName, Symbol, TotalSupply, Decimal, CreatedBlock, FetchedAt)
+                    (ContractAddress,OwnerAddress, TokenName, Symbol, TotalSupply, Decimal, CreatedBlock, FetchedAt)
                     VALUES (?, ?, ?, ?, ?, ?, ?, ?)
                     """,
                     (contract_address,owner, name, symbol, total_supply, decimals, created_block, fetched_at),

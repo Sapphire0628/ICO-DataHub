@@ -201,8 +201,9 @@ class TwitterScraper:
     def fetch(self,url:str, params: Dict[str, Any]) -> Dict[str, Any]:
         """Fetch tweets from the Twitter API."""
         try:
-            auth = random.shuffle(self.auth)
-            response = requests.get(url, params=params, cookies=auth[0], headers=auth[1])
+
+            auth_set = random.choice(self.auth)
+            response = requests.get(url, params=params, cookies=auth_set[0], headers=auth_set[1])
             response.raise_for_status()
 
             return response.json()
@@ -339,7 +340,7 @@ class TwitterScraper:
                 latest_tweets = self.get_latest_tweets(user_id, 30)
                 db.update_tweets(user_id, latest_tweets)
                 logging.info(f"Updating tweets for user ID: {user_id}")
-                time.sleep(10)
+                time.sleep(5)
 
 
 

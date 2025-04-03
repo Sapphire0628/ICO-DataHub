@@ -13,6 +13,7 @@ import schedule
 import time
 import logging
 from config import *
+import random
 
 
 class ContractScraper:
@@ -38,7 +39,7 @@ class ContractScraper:
                 "module": "contract",
                 "action": "getsourcecode",
                 "address": contract_address,
-                "apikey": self.etherscan_api_key
+                "apikey": random.choice(self.etherscan_api_key)
             })
 
             response_data = response.json()
@@ -166,7 +167,7 @@ class ContractScraper:
 
         # Schedule tasks
         schedule.every(1).minutes.do(self.check_new_tokens)
-        schedule.every(4).minutes.do(self.check_missing_source_code)
+        schedule.every(5).minutes.do(self.check_missing_source_code)
 
         # Run the scheduler
         while True:

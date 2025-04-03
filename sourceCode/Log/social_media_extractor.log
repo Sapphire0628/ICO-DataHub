@@ -3476,3 +3476,281 @@
 2025-02-13 13:09:25,166 - INFO - Tokens table updated successfully.
 2025-02-13 13:10:25,304 - INFO - Tokens table updated successfully.
 2025-02-13 13:11:25,458 - INFO - Tokens table updated successfully.
+2025-02-13 13:12:25,616 - INFO - Tokens table updated successfully.
+2025-02-13 13:13:25,754 - INFO - Tokens table updated successfully.
+2025-02-13 13:14:25,911 - INFO - Tokens table updated successfully.
+2025-02-13 13:15:26,063 - INFO - Tokens table updated successfully.
+2025-02-13 13:16:26,214 - INFO - Tokens table updated successfully.
+2025-02-13 13:17:26,364 - INFO - Tokens table updated successfully.
+2025-02-13 13:18:26,516 - INFO - Tokens table updated successfully.
+2025-02-13 13:19:26,736 - INFO - Tokens table updated successfully.
+2025-02-13 13:20:26,879 - INFO - Tokens table updated successfully.
+2025-02-13 13:21:27,034 - INFO - Tokens table updated successfully.
+2025-02-13 13:22:27,181 - INFO - Tokens table updated successfully.
+2025-02-13 13:23:27,387 - INFO - Tokens table updated successfully.
+2025-02-13 13:24:27,530 - INFO - Tokens table updated successfully.
+2025-02-13 13:25:27,754 - INFO - Tokens table updated successfully.
+2025-02-13 13:26:27,973 - INFO - Tokens table updated successfully.
+2025-02-13 13:27:28,130 - INFO - Tokens table updated successfully.
+2025-02-13 13:28:28,286 - INFO - Tokens table updated successfully.
+2025-02-13 13:29:28,415 - INFO - Tokens table updated successfully.
+2025-02-13 13:30:28,566 - INFO - Tokens table updated successfully.
+2025-02-13 13:31:28,826 - INFO - Tokens table updated successfully.
+2025-02-13 13:32:28,954 - INFO - Tokens table updated successfully.
+2025-02-13 13:33:29,105 - INFO - Tokens table updated successfully.
+2025-02-13 13:34:29,266 - INFO - Tokens table updated successfully.
+2025-02-13 13:35:29,421 - INFO - Tokens table updated successfully.
+2025-02-13 13:36:29,564 - INFO - Tokens table updated successfully.
+2025-02-13 13:37:29,733 - INFO - Tokens table updated successfully.
+2025-02-13 13:38:29,943 - INFO - Tokens table updated successfully.
+2025-02-13 13:39:30,121 - INFO - Tokens table updated successfully.
+2025-02-13 13:40:30,298 - INFO - Tokens table updated successfully.
+2025-02-13 13:41:30,479 - INFO - Tokens table updated successfully.
+2025-02-13 13:42:30,661 - INFO - Tokens table updated successfully.
+2025-02-13 13:43:30,877 - INFO - Tokens table updated successfully.
+2025-02-13 13:44:31,090 - INFO - Tokens table updated successfully.
+2025-02-13 13:45:31,501 - INFO - Tokens table updated successfully.
+2025-02-13 13:46:31,672 - INFO - Tokens table updated successfully.
+2025-02-13 13:47:31,849 - INFO - Tokens table updated successfully.
+2025-02-13 13:48:32,028 - INFO - Tokens table updated successfully.
+2025-02-13 13:49:32,209 - INFO - Tokens table updated successfully.
+2025-02-13 13:50:32,407 - INFO - Tokens table updated successfully.
+2025-02-13 13:51:32,795 - INFO - Tokens table updated successfully.
+2025-02-13 13:52:32,979 - INFO - Tokens table updated successfully.
+2025-02-13 13:53:33,192 - INFO - Tokens table updated successfully.
+2025-02-13 13:54:33,363 - INFO - Tokens table updated successfully.
+2025-02-13 13:55:33,533 - INFO - Tokens table updated successfully.
+2025-02-13 13:56:33,701 - INFO - Tokens table updated successfully.
+2025-02-13 13:57:33,948 - INFO - Tokens table updated successfully.
+2025-02-13 13:58:34,156 - INFO - Tokens table updated successfully.
+2025-02-13 13:59:34,402 - INFO - Tokens table updated successfully.
+2025-02-13 14:00:34,825 - INFO - Tokens table updated successfully.
+2025-02-13 14:01:35,052 - INFO - Tokens table updated successfully.
+2025-02-13 14:02:35,222 - INFO - Tokens table updated successfully.
+2025-02-13 14:03:35,406 - INFO - Tokens table updated successfully.
+2025-02-13 14:04:35,730 - INFO - Tokens table updated successfully.
+2025-02-13 14:05:35,907 - INFO - Tokens table updated successfully.
+2025-02-13 14:06:36,070 - INFO - Tokens table updated successfully.
+2025-02-13 14:07:36,220 - INFO - Tokens table updated successfully.
+2025-02-13 14:08:36,376 - INFO - Tokens table updated successfully.
+2025-02-13 14:09:36,611 - INFO - Tokens table updated successfully.
+2025-02-13 14:16:15,558 - INFO - Tokens table updated successfully.
+2025-02-13 14:17:15,735 - INFO - Tokens table updated successfully.
+2025-02-13 14:18:15,890 - INFO - Tokens table updated successfully.
+2025-02-13 14:19:16,103 - INFO - Tokens table updated successfully.
+2025-02-13 14:20:16,289 - INFO - Tokens table updated successfully.
+2025-02-13 14:21:16,471 - INFO - Tokens table updated successfully.
+2025-02-13 14:22:16,689 - INFO - Tokens table updated successfully.
+2025-02-13 14:23:16,864 - INFO - Tokens table updated successfully.
+2025-02-13 14:23:24,219 - INFO - Starting the scheduler...
+2025-02-13 14:23:24,407 - INFO - Tokens table updated successfully.
+2025-02-13 14:25:24,669 - INFO - Tokens table updated successfully.
+2025-02-13 14:27:24,859 - INFO - Tokens table updated successfully.
+2025-02-13 14:29:25,114 - INFO - Tokens table updated successfully.
+2025-02-13 14:31:25,368 - INFO - Tokens table updated successfully.
+2025-02-13 14:32:30,171 - INFO - Starting the scheduler...
+2025-02-13 14:42:11,265 - INFO - Starting the scheduler...
+2025-02-13 14:42:11,376 - ERROR - An error occurred: Error binding parameter 0 - probably unsupported type.
+2025-02-13 14:43:52,375 - INFO - Starting the scheduler...
+2025-02-13 14:43:52,453 - ERROR - An error occurred: Error binding parameter 0 - probably unsupported type.
+2025-02-13 14:44:30,943 - INFO - Starting the scheduler...
+2025-02-13 14:44:31,020 - ERROR - An error occurred: Error binding parameter 0 - probably unsupported type.
+2025-02-13 14:45:31,883 - INFO - Starting the scheduler...
+2025-02-13 14:45:31,962 - ERROR - An error occurred: Error binding parameter 0 - probably unsupported type.
+2025-02-13 14:46:32,060 - ERROR - An error occurred: Error binding parameter 0 - probably unsupported type.
+2025-02-13 14:48:04,950 - INFO - Starting the scheduler...
+2025-02-13 14:48:05,043 - ERROR - An error occurred: Error binding parameter 0 - probably unsupported type.
+2025-02-13 14:49:20,482 - INFO - Starting the scheduler...
+2025-02-13 14:49:20,592 - ERROR - An error occurred: Error binding parameter 0 - probably unsupported type.
+2025-02-13 14:50:20,709 - ERROR - An error occurred: Error binding parameter 0 - probably unsupported type.
+2025-02-13 14:50:25,010 - INFO - Starting the scheduler...
+2025-02-13 14:50:25,058 - ERROR - An error occurred: Error binding parameter 0 - probably unsupported type.
+2025-02-13 14:51:20,841 - ERROR - An error occurred: Error binding parameter 0 - probably unsupported type.
+2025-02-13 14:51:25,117 - ERROR - An error occurred: Error binding parameter 0 - probably unsupported type.
+2025-02-13 14:52:20,975 - ERROR - An error occurred: Error binding parameter 0 - probably unsupported type.
+2025-02-13 14:52:25,198 - ERROR - An error occurred: Error binding parameter 0 - probably unsupported type.
+2025-02-13 14:54:50,915 - INFO - Starting the scheduler...
+2025-02-13 14:54:50,989 - ERROR - An error occurred: Error binding parameter 0 - probably unsupported type.
+2025-02-13 14:55:51,078 - ERROR - An error occurred: Error binding parameter 0 - probably unsupported type.
+2025-02-13 14:56:51,202 - ERROR - An error occurred: Error binding parameter 0 - probably unsupported type.
+2025-02-13 14:57:51,307 - ERROR - An error occurred: Error binding parameter 0 - probably unsupported type.
+2025-02-13 14:58:51,406 - ERROR - An error occurred: Error binding parameter 0 - probably unsupported type.
+2025-02-13 14:59:51,494 - ERROR - An error occurred: Error binding parameter 0 - probably unsupported type.
+2025-02-13 15:00:51,620 - ERROR - An error occurred: Error binding parameter 0 - probably unsupported type.
+2025-02-13 15:01:51,790 - ERROR - An error occurred: Error binding parameter 0 - probably unsupported type.
+2025-02-13 15:02:51,907 - ERROR - An error occurred: Error binding parameter 0 - probably unsupported type.
+2025-02-13 15:03:22,133 - INFO - Starting the scheduler...
+2025-02-13 15:03:22,241 - ERROR - An error occurred: Error binding parameter 0 - probably unsupported type.
+2025-02-13 15:04:22,378 - ERROR - An error occurred: Error binding parameter 0 - probably unsupported type.
+2025-02-13 15:05:22,477 - ERROR - An error occurred: Error binding parameter 0 - probably unsupported type.
+2025-02-13 15:07:59,077 - INFO - Starting the scheduler...
+2025-02-13 15:07:59,257 - INFO - Tokens table updated successfully.
+2025-02-13 15:09:59,410 - INFO - Tokens table updated successfully.
+2025-02-13 15:11:07,958 - INFO - Starting the scheduler...
+2025-02-13 15:11:08,079 - INFO - Tokens table updated successfully.
+2025-02-13 15:12:00,743 - INFO - Starting the scheduler...
+2025-02-13 15:12:01,077 - INFO - Tokens table updated successfully.
+2025-02-13 15:14:01,317 - INFO - Tokens table updated successfully.
+2025-02-13 15:16:01,521 - INFO - Tokens table updated successfully.
+2025-02-13 15:18:01,747 - INFO - Tokens table updated successfully.
+2025-02-13 15:20:02,053 - INFO - Tokens table updated successfully.
+2025-02-13 15:22:02,228 - INFO - Tokens table updated successfully.
+2025-02-13 15:24:02,406 - INFO - Tokens table updated successfully.
+2025-02-13 15:26:02,592 - INFO - Tokens table updated successfully.
+2025-02-13 15:28:02,838 - INFO - Tokens table updated successfully.
+2025-02-13 15:30:03,111 - INFO - Tokens table updated successfully.
+2025-02-13 15:32:03,515 - INFO - Tokens table updated successfully.
+2025-02-13 15:34:03,700 - INFO - Tokens table updated successfully.
+2025-02-13 15:36:03,947 - INFO - Tokens table updated successfully.
+2025-02-13 15:38:04,213 - INFO - Tokens table updated successfully.
+2025-02-13 15:40:04,419 - INFO - Tokens table updated successfully.
+2025-02-13 15:42:04,635 - INFO - Tokens table updated successfully.
+2025-02-13 15:44:04,844 - INFO - Tokens table updated successfully.
+2025-02-13 15:46:05,096 - INFO - Tokens table updated successfully.
+2025-02-13 15:48:05,332 - INFO - Tokens table updated successfully.
+2025-02-13 15:50:05,533 - INFO - Tokens table updated successfully.
+2025-02-13 15:52:05,735 - INFO - Tokens table updated successfully.
+2025-02-13 15:54:05,958 - INFO - Tokens table updated successfully.
+2025-02-13 15:56:06,191 - INFO - Tokens table updated successfully.
+2025-02-13 15:58:06,445 - INFO - Tokens table updated successfully.
+2025-02-13 16:00:06,723 - INFO - Tokens table updated successfully.
+2025-02-13 16:02:06,989 - INFO - Tokens table updated successfully.
+2025-02-13 16:04:07,229 - INFO - Tokens table updated successfully.
+2025-02-13 16:06:07,481 - INFO - Tokens table updated successfully.
+2025-02-13 16:08:07,727 - INFO - Tokens table updated successfully.
+2025-02-13 16:10:07,942 - INFO - Tokens table updated successfully.
+2025-02-13 16:12:08,160 - INFO - Tokens table updated successfully.
+2025-02-13 16:14:08,349 - INFO - Tokens table updated successfully.
+2025-02-13 16:16:08,588 - INFO - Tokens table updated successfully.
+2025-02-13 16:18:08,815 - INFO - Tokens table updated successfully.
+2025-02-13 16:20:09,059 - INFO - Tokens table updated successfully.
+2025-02-13 16:22:09,333 - INFO - Tokens table updated successfully.
+2025-02-13 16:24:09,568 - INFO - Tokens table updated successfully.
+2025-02-13 16:26:09,800 - INFO - Tokens table updated successfully.
+2025-02-13 16:28:10,032 - INFO - Tokens table updated successfully.
+2025-02-13 16:30:10,262 - INFO - Tokens table updated successfully.
+2025-02-13 16:32:10,482 - INFO - Tokens table updated successfully.
+2025-02-13 16:34:10,712 - INFO - Tokens table updated successfully.
+2025-02-13 16:36:10,950 - INFO - Tokens table updated successfully.
+2025-02-13 16:38:11,174 - INFO - Tokens table updated successfully.
+2025-02-13 16:40:11,409 - INFO - Tokens table updated successfully.
+2025-02-13 16:42:11,686 - INFO - Tokens table updated successfully.
+2025-02-13 16:44:11,911 - INFO - Tokens table updated successfully.
+2025-02-13 16:46:12,142 - INFO - Tokens table updated successfully.
+2025-02-13 16:48:12,393 - INFO - Tokens table updated successfully.
+2025-02-13 16:50:12,601 - INFO - Tokens table updated successfully.
+2025-02-13 16:52:12,824 - INFO - Tokens table updated successfully.
+2025-02-13 16:54:13,035 - INFO - Tokens table updated successfully.
+2025-02-13 16:56:13,269 - INFO - Tokens table updated successfully.
+2025-02-13 16:58:13,499 - INFO - Tokens table updated successfully.
+2025-02-13 17:00:13,684 - INFO - Tokens table updated successfully.
+2025-02-13 17:02:13,930 - INFO - Tokens table updated successfully.
+2025-02-13 17:04:14,120 - INFO - Tokens table updated successfully.
+2025-02-13 17:06:14,373 - INFO - Tokens table updated successfully.
+2025-02-13 17:08:14,599 - INFO - Tokens table updated successfully.
+2025-02-13 17:10:14,851 - INFO - Tokens table updated successfully.
+2025-02-13 17:12:15,042 - INFO - Tokens table updated successfully.
+2025-02-13 17:14:15,303 - INFO - Tokens table updated successfully.
+2025-02-13 17:16:15,627 - INFO - Tokens table updated successfully.
+2025-02-13 17:18:15,860 - INFO - Tokens table updated successfully.
+2025-02-13 17:20:16,127 - INFO - Tokens table updated successfully.
+2025-02-13 17:22:16,323 - INFO - Tokens table updated successfully.
+2025-02-13 17:24:16,562 - INFO - Tokens table updated successfully.
+2025-02-13 17:26:16,773 - INFO - Tokens table updated successfully.
+2025-02-13 17:28:17,217 - INFO - Tokens table updated successfully.
+2025-02-13 17:30:17,437 - INFO - Tokens table updated successfully.
+2025-02-13 17:32:17,633 - INFO - Tokens table updated successfully.
+2025-02-13 17:34:17,925 - INFO - Tokens table updated successfully.
+2025-02-13 17:36:18,114 - INFO - Tokens table updated successfully.
+2025-02-13 17:38:18,319 - INFO - Tokens table updated successfully.
+2025-02-13 17:40:18,552 - INFO - Tokens table updated successfully.
+2025-02-13 17:42:18,780 - INFO - Tokens table updated successfully.
+2025-02-13 17:44:18,988 - INFO - Tokens table updated successfully.
+2025-02-13 17:46:19,247 - INFO - Tokens table updated successfully.
+2025-02-13 17:48:19,557 - INFO - Tokens table updated successfully.
+2025-02-13 17:50:19,765 - INFO - Tokens table updated successfully.
+2025-02-13 17:52:20,020 - INFO - Tokens table updated successfully.
+2025-02-13 17:54:20,540 - INFO - Tokens table updated successfully.
+2025-02-13 17:56:20,822 - INFO - Tokens table updated successfully.
+2025-02-13 17:58:21,215 - INFO - Tokens table updated successfully.
+2025-02-13 18:00:21,645 - INFO - Tokens table updated successfully.
+2025-02-13 18:02:21,899 - INFO - Tokens table updated successfully.
+2025-02-13 18:04:22,180 - INFO - Tokens table updated successfully.
+2025-02-13 18:06:22,557 - INFO - Tokens table updated successfully.
+2025-02-13 18:08:22,838 - INFO - Tokens table updated successfully.
+2025-02-13 18:10:23,118 - INFO - Tokens table updated successfully.
+2025-02-13 18:12:23,333 - INFO - Tokens table updated successfully.
+2025-02-13 18:14:23,569 - INFO - Tokens table updated successfully.
+2025-02-13 18:16:23,814 - INFO - Tokens table updated successfully.
+2025-02-13 18:18:24,039 - INFO - Tokens table updated successfully.
+2025-02-13 18:20:24,283 - INFO - Tokens table updated successfully.
+2025-02-13 18:57:37,522 - INFO - Tokens table updated successfully.
+2025-02-13 18:59:37,713 - INFO - Tokens table updated successfully.
+2025-02-13 19:01:37,949 - INFO - Tokens table updated successfully.
+2025-02-13 19:03:38,147 - INFO - Tokens table updated successfully.
+2025-02-13 19:05:38,337 - INFO - Tokens table updated successfully.
+2025-02-13 19:07:38,594 - INFO - Tokens table updated successfully.
+2025-02-13 19:09:38,797 - INFO - Tokens table updated successfully.
+2025-02-13 19:11:38,990 - INFO - Tokens table updated successfully.
+2025-02-13 19:13:39,199 - INFO - Tokens table updated successfully.
+2025-02-13 19:15:39,403 - INFO - Tokens table updated successfully.
+2025-02-13 19:17:39,592 - INFO - Tokens table updated successfully.
+2025-02-13 19:19:39,790 - INFO - Tokens table updated successfully.
+2025-02-13 19:21:39,987 - INFO - Tokens table updated successfully.
+2025-02-13 19:23:40,212 - INFO - Tokens table updated successfully.
+2025-02-13 19:25:40,424 - INFO - Tokens table updated successfully.
+2025-02-13 19:27:41,837 - INFO - Tokens table updated successfully.
+2025-02-13 19:29:42,072 - INFO - Tokens table updated successfully.
+2025-02-13 19:31:42,260 - INFO - Tokens table updated successfully.
+2025-02-13 19:33:42,423 - INFO - Tokens table updated successfully.
+2025-02-13 19:35:42,608 - INFO - Tokens table updated successfully.
+2025-02-13 19:37:42,803 - INFO - Tokens table updated successfully.
+2025-02-13 19:39:43,001 - INFO - Tokens table updated successfully.
+2025-02-13 19:41:43,183 - INFO - Tokens table updated successfully.
+2025-02-13 19:43:43,413 - INFO - Tokens table updated successfully.
+2025-02-13 19:45:43,641 - INFO - Tokens table updated successfully.
+2025-02-13 19:47:43,857 - INFO - Tokens table updated successfully.
+2025-02-13 19:49:44,061 - INFO - Tokens table updated successfully.
+2025-02-13 19:51:44,260 - INFO - Tokens table updated successfully.
+2025-02-13 19:53:44,444 - INFO - Tokens table updated successfully.
+2025-02-13 19:55:44,651 - INFO - Tokens table updated successfully.
+2025-02-13 19:57:44,894 - INFO - Tokens table updated successfully.
+2025-02-13 19:59:45,110 - INFO - Tokens table updated successfully.
+2025-02-13 20:01:45,292 - INFO - Tokens table updated successfully.
+2025-02-13 20:03:45,453 - INFO - Tokens table updated successfully.
+2025-02-13 20:05:45,626 - INFO - Tokens table updated successfully.
+2025-02-13 20:07:46,008 - INFO - Tokens table updated successfully.
+2025-02-13 20:09:46,250 - INFO - Tokens table updated successfully.
+2025-02-13 20:11:46,488 - INFO - Tokens table updated successfully.
+2025-02-13 20:13:46,686 - INFO - Tokens table updated successfully.
+2025-02-13 20:15:46,865 - INFO - Tokens table updated successfully.
+2025-02-13 20:17:47,061 - INFO - Tokens table updated successfully.
+2025-02-13 20:19:47,267 - INFO - Tokens table updated successfully.
+2025-02-13 20:21:47,466 - INFO - Tokens table updated successfully.
+2025-02-13 20:23:47,687 - INFO - Tokens table updated successfully.
+2025-02-13 20:25:47,893 - INFO - Tokens table updated successfully.
+2025-02-13 20:27:48,061 - INFO - Tokens table updated successfully.
+2025-02-13 20:29:48,282 - INFO - Tokens table updated successfully.
+2025-02-13 20:31:48,472 - INFO - Tokens table updated successfully.
+2025-02-13 20:33:48,665 - INFO - Tokens table updated successfully.
+2025-02-13 20:35:48,883 - INFO - Tokens table updated successfully.
+2025-02-13 20:37:49,068 - INFO - Tokens table updated successfully.
+2025-02-13 20:39:49,263 - INFO - Tokens table updated successfully.
+2025-02-13 20:41:49,453 - INFO - Tokens table updated successfully.
+2025-02-13 20:43:49,651 - INFO - Tokens table updated successfully.
+2025-02-13 20:45:49,838 - INFO - Tokens table updated successfully.
+2025-02-13 20:47:50,038 - INFO - Tokens table updated successfully.
+2025-02-13 21:44:35,794 - INFO - Tokens table updated successfully.
+2025-02-13 21:46:35,998 - INFO - Tokens table updated successfully.
+2025-02-13 23:49:53,114 - INFO - Tokens table updated successfully.
+2025-02-14 03:03:51,100 - INFO - Tokens table updated successfully.
+2025-02-14 07:23:56,495 - INFO - Tokens table updated successfully.
+2025-02-14 11:33:24,932 - INFO - Tokens table updated successfully.
+2025-02-14 13:03:48,186 - INFO - Tokens table updated successfully.
+2025-02-14 13:05:48,365 - INFO - Tokens table updated successfully.
+2025-02-14 13:07:48,389 - ERROR - An error occurred: no such table: contracts
+2025-02-14 13:08:48,394 - ERROR - An error occurred: no such table: contracts
+2025-02-14 13:09:48,398 - ERROR - An error occurred: no such table: contracts
+2025-02-14 13:10:48,426 - ERROR - An error occurred: no such table: contracts
+2025-02-14 13:11:48,432 - ERROR - An error occurred: no such table: contracts
+2025-02-14 13:12:48,437 - ERROR - An error occurred: no such table: contracts

@@ -66,6 +66,7 @@ class DatabaseManager:
         """
         schema = """
             ContractAddress TEXT PRIMARY KEY,   -- Unique identifier for the token
+            OwnerAddress TEXT NOT NULL,          -- Address of the token owner
             TokenName TEXT NOT NULL,            -- Name of the token
             Symbol TEXT NOT NULL,               -- Symbol of the token (e.g., ETH, BTC)
             TotalSupply INTEGER NOT NULL,       -- Total supply of the token
