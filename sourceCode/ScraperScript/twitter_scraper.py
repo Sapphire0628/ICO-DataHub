@@ -1,6 +1,3 @@
-#%%
-import re
-import math
 import time
 import json
 import requests
@@ -75,6 +72,26 @@ class TweetDatabase:
             logging.info(f"Error processing Twitter URLs: {e}")
             return []
     
+    def get_available_twitter_users(self) -> List[str]:
+        """從 twitter_user 表中檢索所有可用的使用者"""
+        try:
+            conn = self.get_connection()
+            cursor = conn.cursor()
+           
+            query = "SELECT username FROM twitter_users WHERE available = 'True' AND user_id > 1000000000000000000" 
+            cursor.execute(query)
+            twitter_user = cursor.fetchall()
+
+            # Extract and clean Twitter usernames
+            return list(set(twitter_user))
+        
+        except sqlite3.Error as e:
+            logging.info(f"Database error (get_available_twitter_users): {e}")
+            return []
+        except Exception as e:
+            logging.info(f"Error processing Twitter URLs: {e}")
+            return []
+    
     def save_user_info(self, user_dict :Dict[str, Any]):
         """儲存使用者資訊到資料庫"""
 
@@ -118,13 +135,34 @@ class TweetDatabase:
             cursor = conn.cursor()
             cursor.execute(
                 query,
-                (
-                    None,
+                (   None,
                     username,
                     None,
                     None,
                     "False"
                 ),
+            )
+            conn.commit()
+        except sqlite3.Error as e:
+            logging.info(f"Database error (save_unavailable_user_info): {e}")
+        except Exception as ex:
+            logging.info(f"Unexpected error (save_unavailable_user_info): {ex}")
+
+    def upadte_unavailable_user_info(self, username):
+        """儲存使用者資訊到資料庫"""
+
+        query = f"""
+        UPDATE twitter_users
+        SET  available = 'False'
+        WHERE username = '{username}';
+        """
+        try:
+            logging.info(username , ": ", query)
+            # Execute the query with values from user_dict
+            conn = self.get_connection()
+            cursor = conn.cursor()
+            cursor.execute(
+                query
             )
             conn.commit()
 
@@ -135,7 +173,8 @@ class TweetDatabase:
 
     def get_all_user_ids(self) -> List[Any]:
         """從 twitter_user 表中檢索所有使用者 ID"""
-        query = "SELECT user_id FROM twitter_users WHERE available = 'True'"
+
+        query = "SELECT user_id FROM twitter_users WHERE available = 'True' AND user_id > 1000000000000000000"
         try:
             conn = self.get_connection()
             cursor = conn.cursor()
@@ -224,6 +263,8 @@ class TwitterScraper:
             if response_json['data'] != {}: # Check if the response is not empty
                 
                 user_result = response_json['data']['user']['result']
+
+
                 self.process_user_response(user_result, screen_name, db)
             if response_json['data'] == {}:
                 db.save_unavailable_user_info(screen_name)
@@ -234,6 +275,22 @@ class TwitterScraper:
             logging.info(f"Error parsing response (get_user): {e}")
 
         return None
+    
+    def check_user(self, screen_name: str ,db: TweetDatabase) -> Optional[str]:
+        params = self.build_get_user_params(screen_name)
+
+        try:
+            response_json = self.fetch(self.user_url, params)
+            
+            if response_json['data'] == {}:
+                db.upadte_unavailable_user_info(screen_name)
+
+        except requests.exceptions.RequestException as e:
+            logging.info(f"HTTP request error (check_user): {e}")
+        except KeyError as e:
+            logging.info(f"Error parsing response (check_user): {e}")
+
+
     
     def process_user_response(self, user_result: dict, username:str,  db: TweetDatabase) -> Optional[Dict[str, Any]]:
         """Parse user data."""
@@ -259,11 +316,15 @@ class TwitterScraper:
         response_json = self.fetch(self.tweet_url, params)
 
         try:
+            if response_json == {}:
+                logging.info(f"No tweets found for user ID: {user_id}")
+                return [] 
             response_entries = response_json['data']['user']['result']['timeline_v2']['timeline']['instructions'][-1]['entries']
 
             return self.process_tweet_response(response_entries)
         except (KeyError, IndexError) as e:
-            logging.info(f"Error processing response (get_latest_tweets): {e}")
+            logging.info(f"Error processing response (get_latest_tweets) ({user_id}): {e}")
+
             return []
     
 
@@ -326,6 +387,25 @@ class TwitterScraper:
                     self.get_user(username[0], db)
                     time.sleep(5)
             
+
+            
+        except KeyboardInterrupt:
+            logging.info("Updating new Twitter users interrupted by user.")
+
+    def check_twitter_users(self, db: TweetDatabase):
+        """Checking the twitter_users table."""
+        try:
+            logging.info("Checking users...")    
+            twitter_usernames = db.get_available_twitter_users()
+
+            if twitter_usernames == []:
+                logging.info("No new Twitter users to update.")
+            else:
+                for username in twitter_usernames:
+                    logging.info(username[0])
+                    self.check_user(username[0], db)
+                    time.sleep(5)
+            
         except KeyboardInterrupt:
             logging.info("Updating new Twitter users interrupted by user.")
 
@@ -358,6 +438,7 @@ class TwitterScraper:
 
         # Schedule tasks
         schedule.every(1).minutes.do(lambda: self.update_new_twitter_users(db))
+        schedule.every(2).minutes.do(lambda: self.check_twitter_users(db))
         schedule.every(5).minutes.do(lambda: self.scrape_tweets_periodically(db))
 
         # Run the scheduler loop

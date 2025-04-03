@@ -37,7 +37,7 @@ class TokenScraper:
             owner = contract.functions.owner().call()
             # Store the token details in the SQLite database
             created_block = receipt.blockNumber
-            logging.info(f"Token {name} ({symbol}) created in block {created_block} Creator: {owner}")
+            logging.info(f"Token {name} ({symbol}) created in block {created_block} Owner: {owner}")
 
             fetched_at = datetime.now().isoformat()  # e.g., '2025-02-04T10:45:00'
 
@@ -46,7 +46,7 @@ class TokenScraper:
                 cursor.execute(
                     """
                     INSERT OR IGNORE INTO tokens 
-                    (ContractAddress,OwnerAddress, TokenName, Symbol, TotalSupply, Decimal, CreatedBlock, FetchedAt)
+                    (ContractAddress,Owner, TokenName, Symbol, TotalSupply, Decimal, CreatedBlock, FetchedAt)
                     VALUES (?, ?, ?, ?, ?, ?, ?, ?)
                     """,
                     (contract_address,owner, name, symbol, total_supply, decimals, created_block, fetched_at),

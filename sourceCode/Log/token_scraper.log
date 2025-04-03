@@ -30248,3 +30248,423 @@ Stopped monitoring.
 2025-02-14 13:13:18,684 - ERROR - Error processing token at 0xD8667e75b513C84A7E44083766cd795A82835F77: execution reverted
 2025-02-14 13:13:23,904 - ERROR - Error processing token at 0x1284758Fd0996a04F665aff5F5444026807b38CB: execution reverted
 2025-02-14 13:13:28,341 - ERROR - Error processing token at 0x1F0ca2EFe1DBAeF4d3516020620fA21539338696: execution reverted
+2025-02-14 13:13:35,170 - ERROR - Error processing token at 0x144b63A2e0B37d2DdB453DbAf0a2DCE331eFd717: execution reverted
+2025-02-14 13:13:40,406 - ERROR - Error processing token at 0x99Ba39a2772ca665151CF2E697C8227a29e0C3FB: execution reverted
+2025-02-14 13:13:41,314 - ERROR - Error processing token at 0x4ead0892Bb62386957f0916c6a171b44d0f01758: execution reverted
+2025-02-14 13:13:42,647 - ERROR - Error processing token at 0x3B561A41612acaB3F3C4FF5e2b79ac46eb612098: execution reverted
+2025-02-14 13:13:47,801 - ERROR - Error processing token at 0xD464Faa1296ccf6A915D97febE2e7F6777EA2d23: execution reverted
+2025-02-14 13:13:57,178 - INFO - Token MAGABABY (MBX) created in block 21839836 Creator: 0xED46E19690a601388d2438A293880B39Bb6Cafb1
+2025-02-14 13:13:57,179 - ERROR - Error processing token at 0x52f3e2d34ABa6812301398b526191DAc418568aB: no such table: tokens
+2025-02-14 13:13:57,930 - ERROR - Error processing token at 0xD1A1A901727102C1edd706b0e9ea46C0E4747F26: execution reverted
+2025-02-14 13:14:00,497 - ERROR - Error processing token at 0x5f7855611A63755488D22Da46B8737712eF43746: execution reverted
+2025-02-14 13:14:07,526 - ERROR - Error processing token at 0x866cDDF2842AF5C8608a858888bFa54cE6c46349: execution reverted
+2025-02-14 13:14:08,851 - ERROR - Error processing token at 0x255aD7DDa2e1928c181214c64c92d34F24954DBb: execution reverted
+2025-02-14 13:14:10,356 - ERROR - Error processing token at 0x038C74d8622284276B46FE5827f6F9aec40B08D6: execution reverted
+2025-02-14 13:14:12,269 - ERROR - Error processing token at 0x311d0820Ccb8E325E32f8CEb0A22e25000A76156: execution reverted
+2025-02-14 13:14:18,381 - ERROR - Error processing token at 0x77db3b8ECabdd40A6217D9716908C12973C89952: execution reverted
+2025-02-14 13:14:23,091 - ERROR - Error processing token at 0xA2D04Ec7ff1E9870E79E5f86f84F9DE4F1489d99: execution reverted
+2025-02-14 13:14:27,392 - ERROR - Error processing token at 0x181ab12f4F977d00741d761741450BC46B76ad3f: execution reverted
+2025-02-14 13:14:33,996 - INFO - Token Charlie (Charlie) created in block 21839906 Creator: 0xd8E52C2aA8129a2d1Fc1E78eB99f08c68216B623
+2025-02-14 13:14:33,997 - ERROR - Error processing token at 0x525acC503e8C59F3F9dE62CD94F41F3015400698: no such table: tokens
+2025-02-14 13:14:35,705 - ERROR - Error processing token at 0x8023d72Dd6B53BeE7f790Aea021EA8f84D04e771: Panic error 0x11: Arithmetic operation results in underflow or overflow.
+2025-02-14 13:14:39,926 - ERROR - Error processing token at 0x090D52A638e83aFb860fe53E22f25F7a762bD5e6: execution reverted
+2025-02-14 13:14:43,982 - ERROR - Error processing token at 0xEF37326a1F11344BEa90E296F9dBd910C7ED0f86: execution reverted
+2025-02-14 13:14:45,212 - ERROR - Error processing token at 0xc965e2d620833a9e43C427F6Ddf867727f1FF6A0: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-02-14 13:14:47,036 - ERROR - Error processing token at 0xED7a0Dd72110629234702c027cCA6d15a0825893: execution reverted
+2025-02-14 13:14:48,898 - ERROR - Error processing token at 0xa3048fbD1d338A879944030B675427C5aA55E5F0: execution reverted
+2025-02-14 13:14:50,639 - ERROR - Error processing token at 0xbb866024867479b6fe97558AbD0d12A9A05329bB: execution reverted
+2025-02-14 13:14:52,379 - ERROR - Error processing token at 0xF25768F2ac3a4C349bE98c46eE97F59A9B1d689D: execution reverted
+2025-02-14 13:14:53,711 - ERROR - Error processing token at 0x5512c33AB16Ca57AEF1b5e93251baB57cd3F53D1: execution reverted
+2025-02-14 13:14:55,554 - ERROR - Error processing token at 0xcc011273240610838AEA80b485FBDFF2B2E852A9: execution reverted
+2025-02-14 13:14:56,476 - ERROR - Error processing token at 0x6841A1fE3d4EB69715D2c9Cb3116FfEdd8d8A20A: execution reverted
+2025-02-14 13:14:58,114 - ERROR - Error processing token at 0x5dF256CACA241aDb47C35B16bAf3B71109e931C3: execution reverted
+2025-02-14 13:14:59,855 - ERROR - Error processing token at 0x677622CdfCf22F2649E4fD1B31F928844ab21511: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-02-14 13:15:04,669 - INFO - Token DZ MAFIA (DZ MAFIA) created in block 21839944 Creator: 0xf939Ed986019d227F8DEEf1101d8FB2d9D55C1C6
+2025-02-14 13:15:04,671 - ERROR - Error processing token at 0xd05E1bA555f555cD6570e25A64D95A43468264a6: no such table: tokens
+2025-02-14 13:15:14,952 - ERROR - Error processing token at 0x33BD287EafE9938e15cAd1a11811607Da2cD795F: execution reverted
+2025-02-14 13:15:16,171 - ERROR - Error processing token at 0x9E5e47F16BB3403431FAb8Ac9067Ff6e5087cC81: execution reverted
+2025-02-14 13:15:24,224 - ERROR - Error processing token at 0x150AB62144E638aEBE15A7746DC4166D3608BF69: execution reverted
+2025-02-14 13:15:25,557 - ERROR - Error processing token at 0x8914eaD2985Eba659c803e51Bda1e2898EeF0615: execution reverted
+2025-02-14 13:15:30,902 - INFO - Token ChainGPT (CGPT) created in block 21839993 Creator: 0xbe2154Ba68Bd5B3D0A2Dd5C2Cd5FE6DA6e80C6Fc
+2025-02-14 13:15:30,904 - ERROR - Error processing token at 0x25b107caC488D6aF84A79c0C9B80865433a011f0: no such table: tokens
+2025-02-14 13:15:32,008 - ERROR - Error processing token at 0xfe7834F264c1cc0b0e9D7e0cd0764502D1039A18: execution reverted
+2025-02-14 13:15:33,202 - ERROR - Error processing token at 0x503A2cc28fCd27aE3cc9F5b936344A8C31A8e805: execution reverted
+2025-02-14 13:15:40,202 - INFO - Token CRYPTOFUNK (CFK) created in block 21840006 Creator: 0xF6F2813B8F06f061a6b0e61d8B0a9e299357a88d
+2025-02-14 13:15:40,206 - ERROR - Error processing token at 0x732637CF9eB3c262c694ffDD0534f3efD966AAce: no such table: tokens
+2025-02-14 13:15:41,122 - ERROR - Error processing token at 0xf85E1D074873485bd389838B51fb74eB379EB083: execution reverted
+2025-02-14 13:15:44,992 - ERROR - Error processing token at 0xBf1D10aDF5fA4b6cbcff3319F736dBa5647B9659: execution reverted
+2025-02-14 13:15:46,181 - ERROR - Error processing token at 0xd1d0B5d245fcCe16DD12119681f9e17040440769: execution reverted
+2025-02-14 13:15:46,964 - ERROR - Error processing token at 0x62Cac20E00f2D1dB977Adf6419b3Ef2626630097: execution reverted
+2025-02-14 13:15:48,168 - ERROR - Error processing token at 0xb7CD1CEc49F3Cd5F899d27B6103ef9c1C997fAA0: execution reverted
+2025-02-14 13:15:48,905 - ERROR - Error processing token at 0x6A2fb8e3d6395Fd1E8f7Fe64909d47a59D1d4C91: execution reverted
+2025-02-14 13:15:52,205 - ERROR - Error processing token at 0xB7919b0E97E75A59C42886Ec90CbaD0867BE1D09: execution reverted
+2025-02-14 13:15:55,661 - INFO - Token AI Coin (AIC) created in block 21840021 Creator: 0xBa3912e2eaB0137ADB29FCA0f41c0A21542E0f99
+2025-02-14 13:15:55,663 - ERROR - Error processing token at 0x66C7020C7b6C39E595290C91e1B99DdE2310ddBf: no such table: tokens
+2025-02-14 13:15:56,756 - ERROR - Error processing token at 0x938e3b5322c3401d8DA767f10286310b52c8d390: execution reverted
+2025-02-14 13:16:00,372 - ERROR - Error processing token at 0x2F1d57a1107545483Cfe495d09864BA1FffbB744: execution reverted
+2025-02-14 13:16:01,842 - ERROR - Error processing token at 0x72F9Cd5840bbE9DA5FeA4DfE6B701541e01a6D20: execution reverted
+2025-02-14 13:16:05,092 - INFO - Token SPX6900 2.0 (SPX2.0) created in block 21840025 Creator: 0x0000000000000000000000000000000000000000
+2025-02-14 13:16:05,094 - ERROR - Error processing token at 0x9c27ae0c4045F6B42c43C201012F604b4FA541d0: no such table: tokens
+2025-02-14 13:16:09,487 - ERROR - Error processing token at 0x7f2bb9bA048e3be36C78319F2F996B1CF1d036A7: execution reverted
+2025-02-14 13:16:10,509 - ERROR - Error processing token at 0x76d37E89898520CbC5Ac4be2A8AcD5e1934e513d: execution reverted
+2025-02-14 13:16:14,781 - ERROR - Error processing token at 0x41D79406E4db066c1cAbD51D3655c2f4E8d9cF5e: execution reverted
+2025-02-14 13:16:16,814 - ERROR - Error processing token at 0x019E8A7E174EF380966fef4ac550dE8ed865c2F6: execution reverted
+2025-02-14 13:16:24,797 - ERROR - Error processing token at 0x75c2161FafE0Bb8A7b8fe8e10a64122db90B05eC: execution reverted
+2025-02-14 13:16:32,100 - ERROR - Error processing token at 0x9e483b36c95D55E6e0E135Cb65835fFbdcaf7BD3: execution reverted
+2025-02-14 13:16:39,797 - INFO - Token Expiring USDT (xUSDT) created in block 21840093 Creator: 0x647d89D506C32647cd8c653470f424c8B84C7BF9
+2025-02-14 13:16:39,798 - ERROR - Error processing token at 0x2fcE4E90495D2E510E105A6cb7dE09b80dbe5148: no such table: tokens
+2025-02-14 13:16:40,616 - ERROR - Error processing token at 0x9EB4173BB4872FED64543Ec66882893377224BD8: execution reverted
+2025-02-14 13:16:42,769 - ERROR - Error processing token at 0x34Df638b4bdb7fbcCbC7b17F172576eaba338c4e: execution reverted
+2025-02-14 13:16:44,406 - ERROR - Error processing token at 0x0D873cA1Fc422a274F9aa62623526482e5c99C22: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-02-14 13:16:48,697 - ERROR - Error processing token at 0xF623d914Aff3133f6Efc503DebFa052F03D1a70f: execution reverted
+2025-02-14 13:16:50,870 - ERROR - Error processing token at 0x9C46A9F01195364E0755BB88dAbA1Bb34dab5Df2: execution reverted
+2025-02-14 13:16:52,437 - ERROR - Error processing token at 0x2c2878353d2d669aAb2edb4ec4cB8DBc191C7055: execution reverted
+2025-02-14 13:16:55,975 - ERROR - Error processing token at 0x0e72790f41E0637E7536a6f55Fe821a6A36b09bB: execution reverted
+2025-02-14 13:16:59,232 - ERROR - Error processing token at 0x3f3Db2A0d41273E078635456aDb970B98900Eb28: execution reverted
+2025-02-14 13:16:59,984 - ERROR - Error processing token at 0xAecca6e05Dae6ea2598856C341723f24c1585779: execution reverted
+2025-02-14 13:17:06,729 - INFO - Token MAGABABY (MBX) created in block 21840134 Creator: 0xED46E19690a601388d2438A293880B39Bb6Cafb1
+2025-02-14 13:17:06,733 - ERROR - Error processing token at 0x75F18D9063deE22B10B7cA9d88C1b36b6E616Cfe: no such table: tokens
+2025-02-14 13:17:14,417 - ERROR - Error processing token at 0xc20E9817A8BEA52FC939750F10D638e86006938E: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-02-14 13:17:22,294 - ERROR - Error processing token at 0x1c86562B4eFB3fd165f729BBB9d0F6Dcb94e4dc2: execution reverted
+2025-02-14 13:17:24,140 - ERROR - Error processing token at 0xC728EC28FcdB22d36eDBF7427B03F0aFD06D10DF: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-02-14 13:17:25,235 - ERROR - Error processing token at 0x07dfCE93479aCA061a28269028598bda50442644: execution reverted
+2025-02-14 13:17:26,881 - ERROR - Error processing token at 0x623e19A024DB75C1E553a89F0fcC7426eAc95c22: execution reverted
+2025-02-14 13:17:32,511 - ERROR - Error processing token at 0xE54DD799fBF772316988beC831103d112Dfa93F7: execution reverted
+2025-02-14 13:17:43,374 - ERROR - Error processing token at 0xA3501e3D2370C03cE313fbE112ab0810AdecbE4E: execution reverted
+2025-02-14 13:17:47,242 - ERROR - Error processing token at 0xe537E4d6374A904573cDeF035daDD30F212b8e04: execution reverted
+2025-02-14 13:17:52,412 - INFO - Token Test On ETH (TSTE) created in block 21840231 Creator: 0x0000000000000000000000000000000000000000
+2025-02-14 13:17:52,414 - ERROR - Error processing token at 0x13a827Ef074E4B389497608B60a02e9337302dcf: no such table: tokens
+2025-02-14 13:17:55,148 - INFO - Token MAL (MAL) created in block 21840231 Creator: 0x95D997893956A2e30AAE13E23f3b705999a0E292
+2025-02-14 13:17:55,149 - ERROR - Error processing token at 0x8f86E06a2f9f5c4D81255724fd044a18E1aDA80E: no such table: tokens
+2025-02-14 13:17:57,006 - ERROR - Error processing token at 0x5899D92ab3576272dFE7C2ac18339F2a895Bcd6a: execution reverted
+2025-02-14 13:18:01,857 - ERROR - Error processing token at 0x69885746cc254187d0445b22A0eFE7a426050Ee0: execution reverted
+2025-02-14 13:18:05,036 - ERROR - Error processing token at 0x299a6705a83d52B9172b46A5C26850a540AaD9e2: execution reverted
+2025-02-14 13:18:12,191 - INFO - Token Shiro Neko (シロネコ) created in block 21840257 Creator: 0x0000000000000000000000000000000000000000
+2025-02-14 13:18:12,192 - ERROR - Error processing token at 0x8000a894003283Ee3A0abDadF4F088a21d2CdD3F: no such table: tokens
+2025-02-14 13:18:16,366 - ERROR - Error processing token at 0x3959f28e6DF53562776647b147542E2150ebb8fF: execution reverted
+2025-02-14 13:18:17,996 - ERROR - Error processing token at 0x8d614112DD90750ED6975752657c598d19d5a772: execution reverted
+2025-02-14 13:18:20,823 - ERROR - Error processing token at 0x87e8C2CE76ea38d8F77D3CaCa5B7A75f3B4f7BA4: execution reverted
+2025-02-14 13:18:24,731 - ERROR - Error processing token at 0x5fe79E0b7ddd962601580A7702B752aE5CA68A56: execution reverted
+2025-02-14 13:18:27,254 - ERROR - Error processing token at 0xeE5A4567b85BeA989d83298D43eb3736DC111681: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-02-14 13:18:31,415 - ERROR - Error processing token at 0x3eb7C93ae065fefD8D5F20de0d5E8dd0228EDdCa: execution reverted
+2025-02-14 13:18:33,626 - ERROR - Error processing token at 0xf8310A1DcF8bA96b24AAcb20f230e21D372eA22E: execution reverted
+2025-02-14 13:18:36,078 - ERROR - Error processing token at 0x7E06f841625649f1AA576F520802b5285B8E40FC: execution reverted
+2025-02-14 13:18:39,479 - INFO - Token WALO AI (WAI) created in block 21840303 Creator: 0x138faB111C0e7485f6297e9046Bb3a95b446C60F
+2025-02-14 13:18:39,481 - ERROR - Error processing token at 0xA40FAccC23F620394BE39f55657C497e7Dc56Df8: no such table: tokens
+2025-02-14 13:18:42,782 - INFO - Token Mode AI (MODE) created in block 21840304 Creator: 0x0000000000000000000000000000000000000000
+2025-02-14 13:18:42,784 - ERROR - Error processing token at 0x0392cf44832E970e54fe3a3A389bBaAb09271584: no such table: tokens
+2025-02-14 13:18:44,267 - ERROR - Error processing token at 0xA14Db440897Ddf7B986fed7f4B72b3CD5Ebf27AE: execution reverted
+2025-02-14 13:18:48,345 - ERROR - Error processing token at 0xaabE654bf860F7424c43B9544Cf15Caf926cd382: execution reverted
+2025-02-14 13:18:50,535 - ERROR - Error processing token at 0x67E8F2a63179976595d41de706f144235ecc9b08: Could not decode contract function call to name with return data: b'', output_types: ['string']
+2025-02-14 13:18:52,509 - ERROR - Error processing token at 0x679b89BF610Ae845f34A88b52d3b0b5C969c89BB: execution reverted
+2025-02-14 13:18:58,141 - ERROR - Error processing token at 0x77b830173faf1c6c0571260719fa3E038B941556: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-02-14 13:18:59,812 - ERROR - Error processing token at 0xDD2F0A33f043D08af670CDF2D79974D02EC0f99a: execution reverted
+2025-02-14 13:19:02,929 - INFO - Token  () created in block 21840336 Creator: 0x0000000000000000000000000000000000000000
+2025-02-14 13:19:02,930 - ERROR - Error processing token at 0x083c322aDa898F880a1d0a959A6e69081B82E5bc: no such table: tokens
+2025-02-14 13:19:04,423 - ERROR - Error processing token at 0xCCd90F6435dd78C4ECCED1FA4db0D7242548a2a9: execution reverted
+2025-02-14 13:19:05,615 - ERROR - Error processing token at 0xf27e7e8A854211E030cfCd39350827CC15eFf721: execution reverted
+2025-02-14 13:19:17,498 - ERROR - Error processing token at 0xa6D7122E9A435C6c9b6Bb15D020353fF71e2D827: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-02-14 13:19:20,021 - ERROR - Error processing token at 0xDE0c37dcF7a1878AaFbB71C7203C683833287E4F: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-02-14 13:19:32,072 - ERROR - Error processing token at 0xe42fDE5FA8B86f8e0eF8F6BDC2A3b3D2BD7CD5ae: execution reverted
+2025-02-14 13:19:35,638 - ERROR - Error processing token at 0x5705f94Af88f5d26d0bf75Ca3212EafE61718E86: execution reverted
+2025-02-14 13:19:38,542 - ERROR - Error processing token at 0xa823a1091009eF0636df7bAB6A25cC31FE53E14C: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-02-14 13:19:42,788 - INFO - Token BROCCOLI (BROCCOLI) created in block 21840420 Creator: 0x0000000000000000000000000000000000000000
+2025-02-14 13:19:42,790 - ERROR - Error processing token at 0x09aeE9eEf18E419Bac7201217d4C5B1386aa59b3: no such table: tokens
+2025-02-14 13:19:46,350 - ERROR - Error processing token at 0x3cF5f3906AdDBE30Ae31C8031a75858DfBcAb31E: execution reverted
+2025-02-14 13:19:57,020 - ERROR - Error processing token at 0x5c88f384Ec89fef49F4000Cf2a74803C7227696d: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-02-14 13:20:02,554 - INFO - Token Baby Broccoli (BBroccoli) created in block 21840462 Creator: 0x0000000000000000000000000000000000000000
+2025-02-14 13:20:02,555 - ERROR - Error processing token at 0x431d6c11a74b1Ab9BfeA11A1B98dD8855dbd5755: no such table: tokens
+2025-02-14 13:20:05,580 - ERROR - Error processing token at 0x3FeccEbC1D53d8CF45EC8462329C345F4cf68311: execution reverted
+2025-02-14 13:20:06,333 - ERROR - Error processing token at 0xc39a5a9f13eB46237237aa0Ef1f2C1e3e7008bdA: execution reverted
+2025-02-14 13:20:11,276 - ERROR - Error processing token at 0x9b333b9C2656eb4eA258634D209C5554eee59Eae: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-02-14 13:20:13,053 - ERROR - Error processing token at 0x64346E2615f28A53a8f07189C854000dE96F424c: execution reverted
+2025-02-14 13:20:19,327 - ERROR - Error processing token at 0x98bAa1f5E367519713f6D01c7276103512b7F449: execution reverted
+2025-02-14 13:20:20,402 - ERROR - Error processing token at 0x0f2Dea1f1Ea925AeC0D2382f762a93F143aC2138: execution reverted
+2025-02-14 13:20:26,309 - INFO - Token Fullsend Community Coin (Fullsend) created in block 21840507 Creator: 0x0000000000000000000000000000000000000000
+2025-02-14 13:20:26,311 - ERROR - Error processing token at 0x61D56fe81C2b25049502274dd6b384Cb86a0FAC0: no such table: tokens
+2025-02-14 13:20:31,569 - ERROR - Error processing token at 0x1c46e2bbf1446be83dc6dbD945530131d19b9414: execution reverted
+2025-02-14 13:20:32,552 - ERROR - Error processing token at 0xADbf73c29fC4F82774FBc4db9B2d6211d78048Ff: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-02-14 13:20:36,374 - ERROR - Error processing token at 0xCfe9df5DDF4e07251160b530433817269259a01B: execution reverted
+2025-02-14 13:20:48,221 - ERROR - Error processing token at 0x914BADb8C9b9ac65049FC763Aa89Ac5C602c0233: execution reverted
+2025-02-14 13:20:50,576 - ERROR - Error processing token at 0xF59F48D91fAA81f7E8a617648e2ed99c74bd1824: execution reverted
+2025-02-14 13:20:59,790 - ERROR - Error processing token at 0x253F7586eeb6fD00559082622087A55AF9bc83F0: execution reverted
+2025-02-14 13:21:02,082 - ERROR - Error processing token at 0xB07Ce621371933DDDF9b1e56995c0AF6f53f0234: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-02-14 13:21:04,241 - ERROR - Error processing token at 0x577b34BE920a3e242Fb51865f5F51672e30dA687: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-02-14 13:21:11,511 - ERROR - Error processing token at 0x20fD5ab74D519df395f41c958D982BecB6b64432: execution reverted
+2025-02-14 13:21:17,580 - ERROR - Error processing token at 0x27A4E7ff4a6E28056Ac3e39445639876Ee9926FB: execution reverted
+2025-02-14 13:21:19,034 - ERROR - Error processing token at 0x5B6D2998EEF5cBBa7e8345B08Dd41AecEC5EACA5: execution reverted
+2025-02-14 13:21:23,959 - INFO - Token My Last Dollar (DOLLA) created in block 21840620 Creator: 0xE94c8724B1C7a36621766bb073396BeD0E51ed94
+2025-02-14 13:21:23,963 - ERROR - Error processing token at 0xFf954edf6f3CDCe40DcD8d2451d159079CF15A59: no such table: tokens
+2025-02-14 13:21:27,321 - ERROR - Error processing token at 0x933e1285cCA44fEe425755E30B84b3bCe6fbd509: execution reverted
+2025-02-14 13:21:29,283 - ERROR - Error processing token at 0xF6dF49a0733BDa1d3EDfdc70cEB90b8e4e89B421: execution reverted
+2025-02-14 13:21:40,258 - INFO - Token Tether (USDT) created in block 21840652 Creator: 0xfC430Cd60Ed4B4c4e660512AA8ba7dE21E403837
+2025-02-14 13:21:40,260 - ERROR - Error processing token at 0x76b2d0e4e62Cb2c16464ADf3fcFF1Cffcb4F2BfD: no such table: tokens
+2025-02-14 13:21:43,822 - ERROR - Error processing token at 0x7c9D9765034F8611491D8390d10A303606eb6845: execution reverted
+2025-02-14 13:21:48,467 - ERROR - Error processing token at 0x0Fe92E4d8A609f014c0967703A570D5da55210CC: execution reverted
+2025-02-14 13:21:49,632 - ERROR - Error processing token at 0x3E9C942553bdB643e58DB3BB066AB1FBee20876c: execution reverted
+2025-02-14 13:21:52,559 - ERROR - Error processing token at 0x31ee106a4585a796caacC645172B9F7e9c2f8D37: execution reverted
+2025-02-14 13:21:56,383 - INFO - Token  () created in block 21840678 Creator: 0x0000000000000000000000000000000000000000
+2025-02-14 13:21:56,384 - ERROR - Error processing token at 0x43Fa514A3E94d0efFd96B44341206bDfaff8E56e: no such table: tokens
+2025-02-14 13:21:57,678 - ERROR - Error processing token at 0x1aD3B4aA697baF6607005ce288495D1F2880948a: execution reverted
+2025-02-14 13:21:58,436 - ERROR - Error processing token at 0x459154447d3BD41392Ea3f49738a887dD3f1e5d0: execution reverted
+2025-02-14 13:22:01,543 - INFO - Token Tether USD (USDT) created in block 21840680 Creator: 0x576e84DBF87483433fa0e13b248147a49Ef6491e
+2025-02-14 13:22:01,544 - ERROR - Error processing token at 0xE455E75fB42C2B8B1D11289B0256B45aFF990B7D: no such table: tokens
+2025-02-14 13:22:02,611 - ERROR - Error processing token at 0x559c3233aE9A0EcD45a6c45ee3B8c2c6DBa5F48D: execution reverted
+2025-02-14 13:22:06,136 - INFO - Token Broccoli Test (tBROC) created in block 21840683 Creator: 0xb7B3b7244710e4Ef1eb7EeF57bA71275bb032757
+2025-02-14 13:22:06,138 - ERROR - Error processing token at 0x3b0ea551D4841ef72A8A3266e28c03178aA27AA7: no such table: tokens
+2025-02-14 13:22:09,049 - ERROR - Error processing token at 0x91EfbBBb32D74C69092aa69d0229A8334b5a15ce: execution reverted
+2025-02-14 13:22:11,230 - ERROR - Error processing token at 0xbE65eCeDD5777DC0D80e4Ec3cd0cf5FCd2C13443: execution reverted
+2025-02-14 13:22:13,048 - ERROR - Error processing token at 0x6602c77B65b8111A5e1cDB7A83D32173Fbc290a2: execution reverted
+2025-02-14 13:22:18,381 - INFO - Token Pepe 2.0 (PEPE2.0) created in block 21840702 Creator: 0x4274A828384864C3513af0E35081a8c8F9154680
+2025-02-14 13:22:18,383 - ERROR - Error processing token at 0x8a729022bB21c0736D8f69e0ddd5dEaD5F60BDFB: no such table: tokens
+2025-02-14 13:22:22,634 - ERROR - Error processing token at 0x45C25aa65903087885819216c3C6526969A79819: execution reverted
+2025-02-14 13:22:26,833 - INFO - Token SpBOmtkyIW (FBRloOkyXw) created in block 21840715 Creator: 0x7BeBB916638a4Ae7544f32F6D3B1a89F12Ed7d06
+2025-02-14 13:22:26,835 - ERROR - Error processing token at 0x00003af7dFFE98a424930E4A98dB44F775790000: no such table: tokens
+2025-02-14 13:22:28,163 - ERROR - Error processing token at 0x895c8264B350d3661B881197e78aC46399c98202: execution reverted
+2025-02-14 13:22:31,646 - INFO - Token  () created in block 21840717 Creator: 0x0000000000000000000000000000000000000000
+2025-02-14 13:22:31,647 - ERROR - Error processing token at 0x3221A947b2F5C8Ef85442315b1f6a6Ff72a7811f: no such table: tokens
+2025-02-14 13:22:34,622 - ERROR - Error processing token at 0x1e5e59Ff68642a541CD206f154Fa6C84EC25ab55: execution reverted
+2025-02-14 13:22:38,369 - INFO - Token OmarToken (OMR) created in block 21840725 Creator: 0x81D0Ce613Bf40D7cCc2Bd82232babF0bC30Be8b9
+2025-02-14 13:22:38,371 - ERROR - Error processing token at 0x3049ceC8ADAe45572EcCb3B9310aE462ed0f33a7: no such table: tokens
+2025-02-14 13:22:42,499 - ERROR - Error processing token at 0x40E1748CBc8b6Db1698A07B9A968C1891A6F7866: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-02-14 13:22:45,815 - INFO - Token 7s23RtGs3W (OSXg8j3Gal) created in block 21840734 Creator: 0xa6deEC61050a00e741e321f57B8518c739CCf30B
+2025-02-14 13:22:45,817 - ERROR - Error processing token at 0xfc36C956984BC50A8B3823dC170F4feaa2820F01: no such table: tokens
+2025-02-14 13:22:48,644 - ERROR - Error processing token at 0xeC7b304fCC4eEddF14aBfBEcFB0C7477A6Db1d5C: execution reverted
+2025-02-14 13:22:51,367 - ERROR - Error processing token at 0x51e01bbc78ED5c7e7B80495414E27d781C3Aa1e5: execution reverted
+2025-02-14 13:22:53,969 - ERROR - Error processing token at 0x121691dba902A586D9554C65ff490538Bb8d4DA8: execution reverted
+2025-02-14 13:22:59,206 - INFO - Token Wrapped Token (WT) created in block 21840756 Creator: 0x6c88bE3Ff0a1c98cD3DdBAD1203507D0bc2e17f1
+2025-02-14 13:22:59,207 - ERROR - Error processing token at 0xd737C1C544D10dD62B89F327D0f479703B32CF94: no such table: tokens
+2025-02-14 13:22:59,945 - ERROR - Error processing token at 0x598463fF924010F367dA2E4f294c8C84887f1881: execution reverted
+2025-02-14 13:23:00,702 - ERROR - Error processing token at 0x1659a5b8dC9F63F145572cf2F61d5A05aFDf81AC: execution reverted
+2025-02-14 13:23:03,279 - ERROR - Error processing token at 0x734D9f689a68E047AA40a6b3e543DBcA62bF66E5: execution reverted
+2025-02-14 13:23:05,429 - ERROR - Error processing token at 0xe270BC0118e125142C8841fb33F03D932DC7246A: execution reverted
+2025-02-14 13:23:06,559 - ERROR - Error processing token at 0xdB3Cf9aFe48033F64a0ee129f54DbD994713147B: execution reverted
+2025-02-14 13:23:08,094 - ERROR - Error processing token at 0x6F12308A82c991feD6dBA737E1527DE65bD2a33b: execution reverted
+2025-02-14 13:23:09,635 - ERROR - Error processing token at 0xe006702090f3A0649eB5EA072E7e72964656F449: execution reverted
+2025-02-14 13:23:10,755 - ERROR - Error processing token at 0xBeFfEF56Cd6FA063d2e04E126cF1b93269886c42: execution reverted
+2025-02-14 13:23:12,907 - ERROR - Error processing token at 0xc5164AF94Be6737fE21085eDDa4E43BcBf224F9f: execution reverted
+2025-02-14 13:23:14,028 - ERROR - Error processing token at 0xA627F208c5c32e5638c64147d0aC98bb40F758f0: execution reverted
+2025-02-14 13:23:17,686 - ERROR - Error processing token at 0x311653d52FafE54F948113dd2779B34fC3ea0954: execution reverted
+2025-02-14 13:23:19,545 - ERROR - Error processing token at 0x9755cA4b56f18834b4194F39501aA4dc71692e02: execution reverted
+2025-02-14 13:23:24,634 - INFO - Token Alle9 (AL9) created in block 21840794 Creator: 0x81D0Ce613Bf40D7cCc2Bd82232babF0bC30Be8b9
+2025-02-14 13:23:24,637 - ERROR - Error processing token at 0x20c0bAeecAC96E890Ad4f9B2cb0815Fc468f9DCa: no such table: tokens
+2025-02-14 13:23:29,686 - ERROR - Error processing token at 0x8E50069DcFA770ba0f12abaF4f0f8d5552a52C6d: execution reverted
+2025-02-14 13:23:30,421 - ERROR - Error processing token at 0x4325100431bde44F458A69921BA176197cEBAcBa: execution reverted
+2025-02-14 13:23:36,846 - ERROR - Error processing token at 0x0205712c623803720F271D4787517bC5114eDBC7: execution reverted
+2025-02-14 13:23:40,517 - ERROR - Error processing token at 0x3ea2C6E2FfB9Cc39189Fd243298A4F5dfDFe9f06: execution reverted
+2025-02-14 13:23:42,222 - ERROR - Error processing token at 0x36f1Ab3Ce69fD858f31848E7aA39801A3ed3bb86: execution reverted
+2025-02-14 13:23:44,489 - ERROR - Error processing token at 0x69B42169AbD9D2C073f12768a1B358bcD79be1e8: execution reverted
+2025-02-14 13:23:48,949 - INFO - Token MyToken (MTK) created in block 21840842 Creator: 0x81D0Ce613Bf40D7cCc2Bd82232babF0bC30Be8b9
+2025-02-14 13:23:48,950 - ERROR - Error processing token at 0x01c4a416e2e580510e7A86f17105b5309fb4ADdb: no such table: tokens
+2025-02-14 13:23:50,156 - ERROR - Error processing token at 0x7b28699EF264FC27C07e44ff976414677eE08623: execution reverted
+2025-02-14 13:23:53,820 - INFO - Token Valentines Pepe (💖🐸PEPE AMORE💖🐸) created in block 21840845 Creator: 0x0000000000000000000000000000000000000000
+2025-02-14 13:23:53,822 - ERROR - Error processing token at 0xCE0B41ea1021dEe93a6520bE1645D2D6bB6EA598: no such table: tokens
+2025-02-14 13:23:55,073 - ERROR - Error processing token at 0xFF5C5b61AE627D6659a70aD72A76f1bE7343fEEC: execution reverted
+2025-02-14 13:24:00,179 - INFO - Token Broccoli Coin (BROCCOLI COIN) created in block 21840853 Creator: 0x0000000000000000000000000000000000000000
+2025-02-14 13:24:00,182 - ERROR - Error processing token at 0x92Aeed8027735C41605577b45A69429Bd7f729f9: no such table: tokens
+2025-02-14 13:24:03,637 - ERROR - Error processing token at 0x35eCe2Ef511612d587EBd20E1CD4E302746d18BA: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-02-14 13:24:06,864 - ERROR - Error processing token at 0x8517cD1735465437597682E3B2CDA1f882ED4F68: execution reverted
+2025-02-14 13:24:09,743 - ERROR - Error processing token at 0xfecddc277191cb4e5aA3605d9671F7C0E8d2b7f8: execution reverted
+2025-02-14 13:24:12,852 - ERROR - Error processing token at 0x69C137a15e5FC58Ed05Bd482Acae121Cc02Ec1dF: execution reverted
+2025-02-14 13:24:22,681 - ERROR - Error processing token at 0x9d28f416DF5a2f0E39D1e3028F2C0A7F01016b9B: execution reverted
+2025-02-14 13:24:24,806 - ERROR - Error processing token at 0x5E7397CA539C94185BBD950706F0Dd8628587E04: execution reverted
+2025-02-14 13:24:26,436 - ERROR - Error processing token at 0x913A2AC13907F29EF2346E21368214B9b3dDc04B: execution reverted
+2025-02-14 13:24:27,562 - ERROR - Error processing token at 0xaA0DA3e06F43a5227abB0eA7D6DF3d1037B1769B: execution reverted
+2025-02-14 13:24:31,352 - INFO - Token MyToken (MTK) created in block 21840910 Creator: 0x81D0Ce613Bf40D7cCc2Bd82232babF0bC30Be8b9
+2025-02-14 13:24:31,354 - ERROR - Error processing token at 0x4cE71948EfdAdF0Cc4C7851EB000C727017b0E95: no such table: tokens
+2025-02-14 13:24:32,580 - ERROR - Error processing token at 0xC50a99006e5247b5DD060C8De968336d69683DC8: execution reverted
+2025-02-14 13:24:35,071 - ERROR - Error processing token at 0xBEEB7d4bb34e46bDBE0cA5C484819488c442c173: execution reverted
+2025-02-14 13:24:38,940 - ERROR - Error processing token at 0x1fb1BAc68209F8EcE8461B74109DD70f6B15BBaa: execution reverted
+2025-02-14 13:24:47,305 - ERROR - Error processing token at 0x320C29721760BF753D567D022322400f36E2fd48: execution reverted
+2025-02-14 13:24:52,079 - ERROR - Error processing token at 0xE326F5EbCDA64C3EaEC7963B6933E51D103c8A31: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-02-14 13:24:56,652 - ERROR - Error processing token at 0x507D387086D384a73bee5346B26d88236C814f77: execution reverted
+2025-02-14 13:25:04,640 - ERROR - Error processing token at 0xE1510240B466fe322F9373Af7f0c0Eb1212118aB: execution reverted
+2025-02-14 13:25:16,530 - ERROR - Error processing token at 0xe56E05a3E1375a147C122E5883667e57159485e6: execution reverted
+2025-02-14 13:25:18,253 - ERROR - Error processing token at 0xE7a12Bf30fD9C60Ed2Aa6a776CD0348887aA9D8a: execution reverted
+2025-02-14 13:25:22,582 - ERROR - Error processing token at 0xd63A56eb06382B23dB0aab8edbE1b3600CeE4f59: execution reverted
+2025-02-14 13:25:23,309 - ERROR - Error processing token at 0x6d7871d29bAb8Cc2E54F9B3F6acfB4307597f64c: execution reverted
+2025-02-14 13:25:27,394 - ERROR - Error processing token at 0x5F57ae8222c1B8A56c808AF91a6D1171F1E0859A: execution reverted
+2025-02-14 13:25:29,112 - ERROR - Error processing token at 0xb49763A819155bdf0279868758907bA3583bb980: execution reverted
+2025-02-14 13:25:30,178 - ERROR - Error processing token at 0x33b943E150e530D08861a48e83b27B5cC3688b89: execution reverted
+2025-02-14 13:25:32,623 - ERROR - Error processing token at 0x7309120A9E7e9A0926683EAba27e321039fF29e7: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-02-14 13:25:35,116 - ERROR - Error processing token at 0x5DdfB59AC12caBE7E443220222e6CDd4187651CA: execution reverted
+2025-02-14 13:25:38,828 - ERROR - Error processing token at 0x1cB856645C82c874F391855A421dd58C8339e054: execution reverted
+2025-02-14 13:25:42,541 - ERROR - Error processing token at 0xC0Ebb8ce7B9Fb1BF4D6c3E705c7b081F8D871140: execution reverted
+2025-02-14 13:25:45,599 - ERROR - Error processing token at 0x8f4aAe8c0a13366EA38d302Ded023D097f515890: execution reverted
+2025-02-14 13:25:46,342 - ERROR - Error processing token at 0x8660b0e8f052cBCB3678a3BEB39F58b18b025995: execution reverted
+2025-02-14 13:25:48,947 - ERROR - Error processing token at 0x1Ab98D5eb0722757549584066Ea7Bd512F6df819: execution reverted
+2025-02-14 13:25:50,694 - ERROR - Error processing token at 0x6BcDB5e4fdad13d0D7a31A0A2F2B1ae812e83eb6: execution reverted
+2025-02-14 13:25:55,028 - ERROR - Error processing token at 0x315f8Aa5823580d3135Bdc5BDf1D658be9eeb2D6: execution reverted
+2025-02-14 13:26:00,310 - ERROR - Error processing token at 0x4693ed9c9ACfeF5df8E7D9c8F97d5eEBf406e7C7: execution reverted
+2025-02-14 13:26:05,067 - ERROR - Error processing token at 0xF2089F3472a8Bf95AC12A1e8cB51334DeD4b2817: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-02-14 13:26:05,788 - ERROR - Error processing token at 0x59C0498cE85B46213B8e1c762d542b04Fff93b14: execution reverted
+2025-02-14 13:26:07,257 - ERROR - Error processing token at 0x9Ae5cA00c7F1af085225720c905f15c020A753a3: execution reverted
+2025-02-14 13:26:08,658 - ERROR - Error processing token at 0xa62b5891a1A6ff99C3e63Db1A1A96F705d81B2aF: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-02-14 13:26:10,474 - ERROR - Error processing token at 0xf93Ac6507e1Ad8f9815860cf83047c0995f0DBf6: execution reverted
+2025-02-14 13:26:13,387 - ERROR - Error processing token at 0x404Aa0A74352dBE270e0497af39ECb890ec7716C: execution reverted
+2025-02-14 13:26:15,940 - ERROR - Error processing token at 0xb78a049BFc8b78CfEe476BFdfb7Be7dBD3ebC0ea: execution reverted
+2025-02-14 13:26:18,381 - ERROR - Error processing token at 0x6D2963415774CfE9aD2C556fDDcDB236DA1CE5Fe: execution reverted
+2025-02-14 13:26:24,442 - ERROR - Error processing token at 0x87F60ad075cd51deB67613D0fD690eB5D3706a8a: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-02-14 13:26:28,639 - ERROR - Error processing token at 0x120cd2ddCFF8BBB17F377A0f1DdC66Bb4a26d024: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-02-14 13:26:32,236 - ERROR - Error processing token at 0x41Bd4d9e78FddBEEe2407Bc6E1c2D7ae078E1090: execution reverted
+2025-02-14 13:26:38,102 - ERROR - Error processing token at 0xDCf29F3E8a4F131E76e917437e630b297de66CE6: execution reverted
+2025-02-14 13:26:41,048 - ERROR - Error processing token at 0x5E909e1df5B6A3Ae6A004fF498b8b03BB9865a35: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-02-14 13:26:45,270 - ERROR - Error processing token at 0x4Dd5859f2Fe32BF4A732aB0676c0B0C202b3e319: execution reverted
+2025-02-14 13:26:49,013 - ERROR - Error processing token at 0x8c3d064Ad1Db4D3A47066802D6e640bc7200d53e: execution reverted
+2025-02-14 13:26:50,717 - ERROR - Error processing token at 0xC9a5d6f08f08dAD404823A3fc5AC79bBB788c3b2: execution reverted
+2025-02-14 13:26:51,845 - ERROR - Error processing token at 0xBD2E14734aB6634Ed91F37DCA9b3169b5627586B: execution reverted
+2025-02-14 13:26:59,079 - ERROR - Error processing token at 0xEF582DFD427D2F95507E6E70bC5D3Fd71e915296: execution reverted
+2025-02-14 13:27:00,834 - ERROR - Error processing token at 0x02f190D7Ec82668b6D7AA72D29ea733F8722FD24: execution reverted
+2025-02-14 13:27:02,236 - ERROR - Error processing token at 0xc0426F57C3A71710B5f42cd2dd4a4ffF01ea9837: execution reverted
+2025-02-14 13:27:07,184 - ERROR - Error processing token at 0x2863380A932449e9a09B1ba160BBF86e7144832e: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-02-14 13:27:12,703 - ERROR - Error processing token at 0x05295972F75cFeE7fE66E6BDDC0435c9Fd083D18: execution reverted
+2025-02-14 13:27:14,437 - ERROR - Error processing token at 0x386853C46041B70bE2f5e58732665f7E49BEe3eb: execution reverted: MutablePushSplitter: account is not due payment
+2025-02-14 13:27:17,753 - ERROR - Error processing token at 0x8228aee6fB9fc6624B705AbcA090b17a9502290a: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-02-14 13:27:21,438 - ERROR - Error processing token at 0x8FeAB350A304140b1593A38a13607d122BEC44b6: execution reverted
+2025-02-14 13:27:32,701 - ERROR - Error processing token at 0xdfb20754CFf48bB429a4673E00C18A9039D765E8: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-02-14 13:27:38,476 - INFO - Token Broccoli (BROCCOLI) created in block 21841305 Creator: 0x0000000000000000000000000000000000000000
+2025-02-14 13:27:38,478 - ERROR - Error processing token at 0x4E3A1DaAed531ae3eA078D00B152C17979e7Fc77: no such table: tokens
+2025-02-14 13:27:41,716 - ERROR - Error processing token at 0x8258E63d00778a891941F707F2716E8ce9B47A19: execution reverted
+2025-02-14 13:27:45,089 - ERROR - Error processing token at 0xc54162D15b7D6e5a67793a5409D483200E3Fc883: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-02-14 13:27:45,810 - ERROR - Error processing token at 0x6d7b41CDed297957829420fa9872eea40E5A2934: execution reverted
+2025-02-14 13:27:47,273 - ERROR - Error processing token at 0xf9b0d1e6EEE8C7DFa0785dF6f2f1FAaba1ec09D4: execution reverted
+2025-02-14 13:27:52,860 - ERROR - Error processing token at 0x16119aD9A0ce81f21902ADe93Fd3Bb61159f5141: execution reverted
+2025-02-14 13:28:18,782 - ERROR - Error processing token at 0xd890f7b7970C6038608e51Be816144D356720942: execution reverted
+2025-02-14 13:28:31,174 - ERROR - Error processing token at 0xc9CBa64Fd4D5D0Abc2B15e24f19Abd033661e112: execution reverted
+2025-02-14 13:28:39,055 - ERROR - Error processing token at 0x3e0Ae6A3aBEea1E85323803ae043851159737f5F: execution reverted
+2025-02-14 13:28:48,650 - ERROR - Error processing token at 0xecD3694705d050067Ff7637a20DF8501bd9C8c99: execution reverted
+2025-02-14 13:28:55,840 - ERROR - Error processing token at 0x88ac6A2A55ce6ADb53A38e8Be85e179A188Dd7B1: execution reverted
+2025-02-14 13:29:00,226 - ERROR - Error processing token at 0xE9664026216DAf9B1F048829179d65902D0C4D49: execution reverted
+2025-02-14 13:29:06,807 - ERROR - Error processing token at 0x3F0D6c17DC464390b5d5FB074Cd40BD8B1c42BF4: execution reverted
+2025-02-14 13:29:09,452 - ERROR - Error processing token at 0x053C9d5d519e52017692160D0AE7BD40FE4bc9Bc: execution reverted
+2025-02-14 13:29:12,564 - ERROR - Error processing token at 0xeE995681cdF57dF57A07e55947D18192688aBfFd: execution reverted
+2025-02-14 13:29:13,827 - ERROR - Error processing token at 0xE8E732C2F6325C21b727dE0F9E92ECE86b67276E: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-02-14 13:29:15,577 - ERROR - Error processing token at 0x8fD9679640858459C9379D9cE9EF65c0aD1c8756: execution reverted
+2025-02-14 13:29:28,427 - ERROR - Error processing token at 0x6947F249Db4DC9Ff2EA25cEa96Fef6E6fa158dF2: execution reverted
+2025-02-14 13:29:31,341 - ERROR - Error processing token at 0x9e8A24d47E6C7fcAD885b4D7bb975fA65ca52a25: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-02-14 13:29:43,974 - ERROR - Error processing token at 0xF353AE11218637F55caf97C21C60AAF7ee594D4D: execution reverted
+2025-02-14 13:30:03,333 - INFO - Token MyToken (MTK) created in block 21841649 Creator: 0x81D0Ce613Bf40D7cCc2Bd82232babF0bC30Be8b9
+2025-02-14 13:30:03,336 - ERROR - Error processing token at 0x1B21595cE759ed6528B184b2FE452B0808ab364D: no such table: tokens
+2025-02-14 13:30:14,596 - ERROR - Error processing token at 0x441c8C2Ced788CFc84431119a8EfDdB2401301C5: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-02-14 13:30:18,364 - INFO - Token q2tX4PqAf9 (Pb5DveOsV1) created in block 21841678 Creator: 0xfc176517479ccD9F9122302C185e110010Ffb60D
+2025-02-14 13:30:18,370 - ERROR - Error processing token at 0x0000FC66BE6a6cC59f04ce52012fABF00EFe0000: no such table: tokens
+2025-02-14 13:30:40,292 - ERROR - Error processing token at 0x41b05eB781d8be6A8E54e30B25Eb82EAbff2022D: execution reverted: MutablePushSplitter: account is not due payment
+2025-02-14 13:31:08,387 - ERROR - Error processing token at 0x71B0353FEd3043feD4F192671bFE749105faF443: execution reverted
+2025-02-14 13:31:21,942 - INFO - Token MarsCoin  (MARS) created in block 21841856 Creator: 0x6294c144e59b14f658c97e0339539B9a101EE3bf
+2025-02-14 13:31:21,943 - ERROR - Error processing token at 0x5eb2Cd6F1015D67950A0027c6E5BAEBC0B4Ba0F1: no such table: tokens
+2025-02-14 13:31:26,396 - INFO - Token Alles (ALS) created in block 21841862 Creator: 0x81D0Ce613Bf40D7cCc2Bd82232babF0bC30Be8b9
+2025-02-14 13:31:26,398 - ERROR - Error processing token at 0x66467957C28ABf889c403E2E524F8bF23C74eA26: no such table: tokens
+2025-02-14 13:31:30,940 - INFO - Token Ghost Trump (GHOST) created in block 21841868 Creator: 0x223caC44B3072cda58623C8a7b35c643F877741b
+2025-02-14 13:31:30,942 - ERROR - Error processing token at 0xB8668550bBEc0a67920a28188F774EBD1b5ae486: no such table: tokens
+2025-02-14 13:31:33,545 - ERROR - Error processing token at 0x5d6D1B4b6fF39b096dB2da54Ba0dF5176250C685: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-02-14 13:31:44,236 - INFO - Token OMar (OMR) created in block 21841889 Creator: 0x81D0Ce613Bf40D7cCc2Bd82232babF0bC30Be8b9
+2025-02-14 13:31:44,237 - ERROR - Error processing token at 0xcf0bA4aBf90374542BbAf80f879c4c90Ed255777: no such table: tokens
+2025-02-14 13:31:47,445 - ERROR - Error processing token at 0x561B453717aE3Ed3Fd796AAFC2491a1ff1FFeEb5: execution reverted
+2025-02-14 13:31:49,181 - ERROR - Error processing token at 0x7c8C021E66Bc08fEAcb2DFB2A705DC9785a0691D: execution reverted
+2025-02-14 13:31:57,923 - ERROR - Error processing token at 0x82Ec399bB68e10fDb94b4d965cC2a7eEE56422cD: execution reverted
+2025-02-14 13:32:00,492 - ERROR - Error processing token at 0xc38192725b94daF1ad12eBD0617c83d9e6b48B5C: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-02-14 13:32:15,661 - ERROR - Error processing token at 0x2292EB0C85C04b869FB00499B1A41e8a19FD596F: Could not decode contract function call to name with return data: b'', output_types: ['string']
+2025-02-14 13:32:17,725 - ERROR - Error processing token at 0xC269100F3B7939360C9d09339bBDc46EF2547eE6: execution reverted
+2025-02-14 13:32:19,608 - ERROR - Error processing token at 0x399BbC2C7cf66B40ef4F413E7dFbd2B02C7076eB: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-02-14 13:32:24,028 - ERROR - Error processing token at 0xB945Ab749739aB46c15f39e7409E29AB5b6afCc2: execution reverted
+2025-02-14 13:32:26,178 - ERROR - Error processing token at 0x06e50ACcE32C6b8CceBDad7f19419be4eF743D1D: execution reverted
+2025-02-14 13:32:36,284 - ERROR - Error processing token at 0x01Cd9b617146b553873007Ca825CDAef532FE0db: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-02-14 13:32:38,946 - ERROR - Error processing token at 0x51df437a78B41E5acA8c3b65a9CA0D2A3530Ba36: execution reverted
+2025-02-14 13:32:42,496 - ERROR - Error processing token at 0xFF87e00691a5C4cEF3564e86937b4193C0C795d8: execution reverted
+2025-02-14 13:32:52,776 - ERROR - Error processing token at 0xdcd8595a1314774344cDbC48cd2c87Dcf8fA2ADF: execution reverted
+2025-02-14 13:32:57,268 - ERROR - Error processing token at 0x368E8235c26197765B15f229Ef753C169b1F9D29: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-02-14 13:33:03,463 - INFO - Token Tether USD (USDT) created in block 21841993 Creator: 0x865C4F3fc0196C1ed4d0eCFDD0BDa08D5e0E980f
+2025-02-14 13:33:03,465 - ERROR - Error processing token at 0x78F5a8014938577b47B99c30027449729740dE16: no such table: tokens
+2025-02-14 13:33:16,927 - INFO - Token PoopAI ($POOPOWER) created in block 21842011 Creator: 0x0000000000000000000000000000000000000000
+2025-02-14 13:33:16,929 - ERROR - Error processing token at 0x92fcA292d035dc3E4e428E76A8A21D9255BF0704: no such table: tokens
+2025-02-14 13:33:18,684 - ERROR - Error processing token at 0x9C1C3222123489619380f057b975f1Eb40b22aaA: execution reverted
+2025-02-14 13:33:19,937 - ERROR - Error processing token at 0x13a72E919284a13358BF4698ACC9695Fe7342a49: execution reverted
+2025-02-14 13:33:24,353 - ERROR - Error processing token at 0x107Cc7Be2228D0d865aCADeA0D99F382cCAd152a: execution reverted
+2025-02-14 13:33:33,792 - ERROR - Error processing token at 0xEfE445F644bA718ECE72b3c65B7F082e3961509c: execution reverted
+2025-02-14 13:33:39,191 - INFO - Token Broccoli (BROCCOLI) created in block 21842046 Creator: 0x0000000000000000000000000000000000000000
+2025-02-14 13:33:39,194 - ERROR - Error processing token at 0x6c876fD894F43727F9868f4be2872e3F3b191b8b: no such table: tokens
+2025-02-14 13:33:43,289 - ERROR - Error processing token at 0x4f6f72D74a4924BC1c3A18a56D7EBE2BA2F6f11C: execution reverted
+2025-02-14 13:33:48,722 - ERROR - Error processing token at 0x02a3aC1d440D2d1BD27aEE9B650ecb4E87a54FA0: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-02-14 13:33:51,837 - ERROR - Error processing token at 0x993c417F157712C0Ddd75060d77cce7F3ACb2913: execution reverted
+2025-02-14 13:34:01,308 - ERROR - Error processing token at 0xb93200bA10AB121Ad3d495975324a583D76Df552: execution reverted
+2025-02-14 13:34:04,338 - ERROR - Error processing token at 0xD7471B9f5076AC52f02518FA8E3CA0b716f1fC09: execution reverted
+2025-02-14 13:34:07,351 - ERROR - Error processing token at 0x83Eb11964dcAdfC6eFad331bEA7e39b211371af7: execution reverted
+2025-02-14 13:34:15,439 - ERROR - Error processing token at 0x334C5e62a118f2e0EeC7E7a6254b59D1C4dC64b5: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-02-14 13:34:19,503 - ERROR - Error processing token at 0x701e32674f4D8bCF5c67Dd41dBc8A49Da02eC6b6: execution reverted
+2025-02-14 13:34:23,044 - ERROR - Error processing token at 0xdC99293E25122929b657113bB6F509938cEc198c: execution reverted
+2025-02-14 13:34:26,672 - INFO - Token Broccoli (Broccoli) created in block 21842133 Creator: 0x0000000000000000000000000000000000000000
+2025-02-14 13:34:26,739 - ERROR - Error processing token at 0xbd8C4D65916e89BbB6418094a178876F3dbb41f8: no such table: tokens
+2025-02-14 13:34:29,080 - ERROR - Error processing token at 0x3eDc7ee670271bee523D1fF386b0D3A3f94427Fc: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-02-14 13:34:37,846 - ERROR - Error processing token at 0x673Da443da2f6aE7c5c660A9F0D3DD24d1643D36: execution reverted
+2025-02-14 13:34:39,529 - ERROR - Error processing token at 0x12795e73642D6e56780b9a49AE96D22C242F8b67: execution reverted
+2025-02-14 13:34:40,235 - ERROR - Error processing token at 0x245e633B3FDdd61E4A0A4282767BDacFA84A0b14: execution reverted
+2025-02-14 13:34:41,641 - ERROR - Error processing token at 0x83b7749e15d754DEa1d1c10cD52A178AfC9ab2e7: execution reverted
+2025-02-14 13:34:44,570 - INFO - Token 🐶LuckyDoge (🐶LuckyDoge) created in block 21842167 Creator: 0xD9E61a7EDe26DbC2F49BF01183f6eb16ec8e99cE
+2025-02-14 13:34:44,571 - ERROR - Error processing token at 0x0cdA8f16625a6EebA7569C1E1413410740819630: no such table: tokens
+2025-02-14 13:34:46,254 - ERROR - Error processing token at 0xacCEC895650eB692cAaC4dBfD7ee7b3Ee4fb9d9D: execution reverted
+2025-02-14 13:34:47,299 - ERROR - Error processing token at 0x4c8A4521F2431b0aC003829ac4e6dBC4Ed97707d: execution reverted
+2025-02-14 13:34:49,581 - ERROR - Error processing token at 0x9613AF5b19d734458028EeE5aF89B7c305C9004F: execution reverted
+2025-02-14 13:34:52,006 - ERROR - Error processing token at 0x66be432af79c76fcD7774c8a4C814cF767AFcC0b: execution reverted
+2025-02-14 13:35:03,736 - ERROR - Error processing token at 0x465B854B035F521cb7C6cDF3e7705A8cbbB2a25F: execution reverted
+2025-02-14 13:35:06,317 - INFO - Token BROCCOLI's Brother (GREENBRO) created in block 21842214 Creator: 0xD8c9dAB07e6872c460d12Fc45ec55b8704324DeF
+2025-02-14 13:35:06,319 - ERROR - Error processing token at 0xd4d920922c64BF36Cb93298bC8AB4dA92EC72155: no such table: tokens
+2025-02-14 13:35:08,903 - ERROR - Error processing token at 0xC0D25ff4B261028bFcD74D5d98EC3768891a92B5: execution reverted
+2025-02-14 13:35:12,887 - ERROR - Error processing token at 0x10d005c9F6FB6802322e3cF09bdf470429E3f01a: execution reverted
+2025-02-14 13:35:16,370 - ERROR - Error processing token at 0xa1c069C2F77B26a54e9F175fA2EADe21c34A94E1: execution reverted
+2025-02-14 13:35:22,187 - ERROR - Error processing token at 0xEae8Ca5691e61e1b21532c2f93781096957c0bF8: execution reverted
+2025-02-14 13:35:24,234 - ERROR - Error processing token at 0x7826De953Ad9A46d765c742aD5d4e19faEe0A406: execution reverted
+2025-02-14 13:35:26,201 - ERROR - Error processing token at 0x514BeC24f2d63863DDd3c274387C83cFee5e7c4B: execution reverted
+2025-02-14 13:35:29,512 - INFO - Token Broccoli (BROCCOLI) created in block 21842250 Creator: 0xa51B1C4766F0fC9409525784b3BF62385dDfA08d
+2025-02-14 13:35:29,513 - ERROR - Error processing token at 0x2551Bc3f26129019624F1fB09ebB880E94dBc22A: no such table: tokens
+2025-02-14 13:35:31,757 - ERROR - Error processing token at 0xcD3dcD495B202536fB5C5C545d370cBC05aDf109: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-02-14 13:35:33,443 - ERROR - Error processing token at 0xBc84A229a3f414d9B8068B8Bd3100b2e86f30838: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-02-14 13:35:35,219 - ERROR - Error processing token at 0xF4BD27E10c47816bBE3d829F305cb3df77e6F6bb: execution reverted
+2025-02-14 13:35:36,237 - ERROR - Error processing token at 0xC9f28C28CFCc02e57DF0E5c6edB2f6e76627dEbA: execution reverted
+2025-02-14 13:35:53,232 - ERROR - Error processing token at 0x7e65040Ed5251339808DC479f56e1b6Ac58E22AD: execution reverted
+2025-02-14 13:35:55,383 - ERROR - Error processing token at 0x701846C9f47d2c6aa56a2436B582783801E4C555: execution reverted
+2025-02-14 13:36:00,401 - ERROR - Error processing token at 0x06dF3E74A48155d1306b30B013A69DCE9B6259c6: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-02-14 13:36:02,756 - ERROR - Error processing token at 0x0a812964dD51F6BDC9d6F165639544ae22556F94: execution reverted
+2025-02-14 13:36:12,210 - ERROR - Error processing token at 0x0dbC507D7cea067956673ba73F1dEe53458AB332: Could not decode contract function call to name with return data: b'', output_types: ['string']
+2025-02-14 13:36:24,871 - ERROR - Error processing token at 0xCEca31baF757B6Ce5987e469C6C025995bcc76e6: execution reverted
+2025-02-14 13:36:27,534 - ERROR - Error processing token at 0xA6dEa7d81a6c9505DA1bd5685a61B26b88bd2f33: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-02-14 13:36:30,713 - ERROR - Error processing token at 0x5EC1E19bb5ee075bce330bd4Ba7bc96d46a64b3c: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-02-14 13:36:35,622 - ERROR - Error processing token at 0x7db05400a1b169071C61B5D7DABA29B2D279BB62: execution reverted
+2025-02-14 13:36:37,258 - ERROR - Error processing token at 0x9dD3fCb00697A1740aB21A36797D274ab368891F: execution reverted
+2025-02-14 13:36:42,615 - INFO - Token Broccoli (Broccoli) created in block 21842419 Creator: 0x0000000000000000000000000000000000000000
+2025-02-14 13:36:42,617 - ERROR - Error processing token at 0x9Be8847A7d8A4ea358737C6678830F7fEA2e6B0b: no such table: tokens
+2025-02-14 13:36:49,125 - ERROR - Error processing token at 0xb6B182AC7869F5A06422046076d5Cc81B3CB5Eb0: execution reverted
+2025-02-14 13:36:57,148 - ERROR - Error processing token at 0x0De96c5c5ee99954b5A1D347ED59f3445ec6944C: execution reverted
+2025-02-14 13:37:03,162 - ERROR - Error processing token at 0xcC89475b91e2E96e7D69cC23ceC4270F95A32B23: execution reverted
+2025-02-14 13:37:10,324 - ERROR - Error processing token at 0x8D654022f81b5470F3E32744f12869dBda554662: execution reverted
+2025-02-14 13:37:10,853 - INFO - Processing blocks from 21842498 to 21842661
+2025-02-14 13:37:18,198 - INFO - Token Valen Musk ($VALEN) created in block 21842512 Creator: 0xaB0bBE97E764D538680519A9725019A985ec0f5A
+2025-02-14 13:37:18,202 - ERROR - Error processing token at 0xE75F0C2e90f55b9642FB3B4aBDDD49c61d8F7736: no such table: tokens
+2025-02-14 13:37:22,785 - INFO - Token Volunteer Tech Support (VTS) created in block 21842518 Creator: 0x61ea519085aE7041144EA82843f8b66E205995bD
+2025-02-14 13:37:22,786 - ERROR - Error processing token at 0x2C94D6c6A82C802f54be5b6bF6a035DC3F917d91: no such table: tokens
+2025-02-14 13:37:27,262 - INFO - Token Volunteer Tech Support (VTS) created in block 21842524 Creator: 0x0000000000000000000000000000000000000000
+2025-02-14 13:37:27,263 - ERROR - Error processing token at 0x0056F633354Abde6C5A8478c49ff1063a85b5783: no such table: tokens
+2025-02-14 13:37:30,118 - ERROR - Error processing token at 0xc6154109B02BAFeC5eE536a67559AF4187D05fcf: execution reverted
+2025-02-14 13:37:35,565 - INFO - Token Volunteer Tech Support (VTS) created in block 21842540 Creator: 0x0000000000000000000000000000000000000000
+2025-02-14 13:37:35,567 - ERROR - Error processing token at 0x38745BC1672a677A8e0c639208AEDD9189b88634: no such table: tokens
+2025-02-14 13:37:39,659 - ERROR - Error processing token at 0xEAff6fFd270985EE59eCC43b99B695f2dF4a78b8: execution reverted: MutablePushSplitter: account is not due payment
+2025-02-14 13:37:44,729 - INFO - Token Volunteer Tech Support (VTS) created in block 21842559 Creator: 0x0000000000000000000000000000000000000000
+2025-02-14 13:37:44,730 - ERROR - Error processing token at 0x2Cd4Ca6758e433Fb42c94F856Bb0B9B652578629: no such table: tokens
+2025-02-14 13:37:47,367 - ERROR - Error processing token at 0x7C9f890a6Dbb9AFf33532F060D0BfEBc8a96Fb20: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-02-14 13:37:51,427 - INFO - Token Volunteer Tech Support (VTS) created in block 21842567 Creator: 0x0000000000000000000000000000000000000000
+2025-02-14 13:37:51,428 - ERROR - Error processing token at 0x574af0d5e0280B5B64437b4A4910Fa4e02766096: no such table: tokens
+2025-02-14 13:37:52,833 - ERROR - Error processing token at 0x547396018c41Cb7211A8f685515A9a3Aa7eb3e87: execution reverted
+2025-02-14 13:37:56,396 - ERROR - Error processing token at 0xEbdE48355b3abDe2DE2CCf19eBeEA5728a1bf12d: execution reverted
+2025-02-14 13:38:02,483 - ERROR - Error processing token at 0xa5574EE4E598982F895A39bdc994296b53dE6ff2: execution reverted
+2025-02-14 13:38:06,376 - INFO - Token Volunteer Tech Support (VTS) created in block 21842585 Creator: 0x606FCc49C4a5De1883ec82c15B194635225B84BA
+2025-02-14 13:38:06,377 - ERROR - Error processing token at 0xDDfE02a690754775F3c7d86234A6AB9d66Db3B42: no such table: tokens
+2025-02-14 13:38:09,935 - INFO - Token Flope (Flope) created in block 21842587 Creator: 0xE475cC78b16b40675217e5B584aF783F9507374d
+2025-02-14 13:38:09,935 - ERROR - Error processing token at 0x551167F6C0558f4432dfDf8C882F8E846908256B: no such table: tokens
+2025-02-14 13:38:14,379 - ERROR - Error processing token at 0xdf1aeC72A986B13044A8Ac7B693e75E89AF73ac1: execution reverted
+2025-02-14 13:38:15,414 - ERROR - Error processing token at 0x51f4C10a1D6996f528B3f0D1D3df99467e6DaDD4: execution reverted
+2025-02-14 13:38:21,097 - ERROR - Error processing token at 0xf85cf0809acc78E6f98E3c63A656D3D2078a303c: execution reverted
+2025-02-14 13:38:22,488 - ERROR - Error processing token at 0x7E978961c102b195C3aeD2ab5d2B542a10845cc9: execution reverted
+2025-02-14 13:38:26,216 - ERROR - Error processing token at 0x417c2e45f7c5aAa419E3c1FDbbAd66400EB4E814: execution reverted
+2025-02-14 13:38:32,620 - ERROR - Error processing token at 0x1fAE23128cFb91A40107189e48372350d17bd835: execution reverted
+2025-02-14 13:38:35,682 - ERROR - Error processing token at 0xcA0E4CC91605B7A92b8B65f5f0Ce7CEDDBe0d14d: execution reverted
+2025-02-14 13:38:39,469 - INFO - Token Make America Follow THE Constitution Again ($MAFCA) created in block 21842650 Creator: 0xD69ACF4DEE3d9c9be1DB85be1Fa29eDaC7FDBE0E
+2025-02-14 13:38:39,470 - ERROR - Error processing token at 0xad278FC21D81e26Bc02c4d2C8354B5Ce4dC98Ab0: no such table: tokens

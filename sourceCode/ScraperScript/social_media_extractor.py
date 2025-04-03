@@ -110,10 +110,7 @@ class SocialMediaExtractor:
                     WHERE ContractAddress = ?
                 """, (contract_address,))
                 token_data = cursor.fetchone()
-            
 
-
-               
                 updates = []
                 # Skip if no token data exists
                 if token_data is None:
@@ -159,9 +156,6 @@ class SocialMediaExtractor:
         except sqlite3.Error as e:
             logging.error(f"An error occurred: {e}")
 
-        except ValueError as ve:
-            logging.error(f"Data validation error: {ve}")
-
 
     def start(self):
         """
@@ -173,7 +167,6 @@ class SocialMediaExtractor:
         # Run the scheduler
         while True:
             self.update_tokens_table()
-            time.sleep(60)
 
 
 

@@ -3,7 +3,6 @@ import json
 import logging
 import requests
 import sqlite3
-import random
 
 class GetAddressTxn:
     def __init__(self, db_path, etherscan_api_url,etherscan_api_key,  log_file="../Log/get_address_txn.log", save_folder="../DB/creator_txn/"):
@@ -33,7 +32,7 @@ class GetAddressTxn:
                 "page": 1,
                 "offset" : 10,
                 "sort": "asc",
-                "apikey": random.choice(self.etherscan_api_key)
+                "apikey": self.etherscan_api_key
             })
 
             response_data = response.json()
@@ -51,7 +50,7 @@ class GetAddressTxn:
         conn = sqlite3.connect(self.db_path)
         cursor = conn.cursor()
         cursor.execute("""
-                SELECT OwnerAddress FROM tokens WHERE OwnerAddress IS NOT NULL;                
+                SELECT Owner FROM tokens WHERE Owner IS NOT NULL;                
             """)
         creator = cursor.fetchall()
         conn.close()
@@ -71,7 +70,7 @@ class GetAddressTxn:
         
 if __name__ == "__main__":
     getAddressTxn = GetAddressTxn("../DB/data.db", ETHERSCAN_API_URL, ETHERSCAN_API_KEY)
-    getAddressTxn.start()
+    GetAddressTxn.start(getAddressTxn)
 
         
     

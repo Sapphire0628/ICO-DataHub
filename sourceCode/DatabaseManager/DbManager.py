@@ -7,7 +7,7 @@ class DatabaseManager:
         Initialize the DatabaseManager with a path to the SQLite database.
         """
         self.db_path = db_path
-
+        
     def execute_query(self, query, parameters=None):
         """
         Execute a given SQL query (e.g., DROP TABLE or DELETE FROM).
@@ -66,7 +66,8 @@ class DatabaseManager:
         """
         schema = """
             ContractAddress TEXT PRIMARY KEY,   -- Unique identifier for the token
-            OwnerAddress TEXT NOT NULL,          -- Address of the token owner
+            pairAddress TEXT NOT NULL,            -- Address of the token pair
+            Owner TEXT NOT NULL,                 -- Owner of the token contract
             TokenName TEXT NOT NULL,            -- Name of the token
             Symbol TEXT NOT NULL,               -- Symbol of the token (e.g., ETH, BTC)
             TotalSupply INTEGER NOT NULL,       -- Total supply of the token
@@ -77,6 +78,25 @@ class DatabaseManager:
             WebsiteUrl TEXT,
             TelegramUrl TEXT,
             WhitepaperUrl TEXT,
+            isSpam TEXT,                  -- Indicates if the token is spam
+            isPotentialSpam TEXT,         -- Indicates if the token is potentially spam
+            safetyLevel TEXT,             -- Safety level of the token
+            spamCode INT,                -- Code indicating the type of spam
+            attackTypes TEXT,             -- Types of attacks associated with the token
+            is_open_source TEXT,         -- Indicates if the token is open source
+            is_honeypot TEXT,          -- Indicates if the token is a honeypot
+            ismintable TEXT,          -- Indicates if the token is mintable
+            is proxy TEXT,          -- Indicates if the token is a proxy
+            slippage_modifiable TEXT,          -- Indicates if the token is slippage modifiable
+            is_blacklisted TEXT,          -- Indicates if the token is blacklisted
+            min_sell_tax FLOAT,          -- Minimum sell tax for the token
+            max_sell_tax FLOAT,          -- Maximum sell tax for the token
+            min_buy_tax FLOAT,           -- Minimum buy tax for the token
+            max_buy_tax FLOAT,           -- Maximum buy tax for the token
+            is_contract_renounced TEXT,          -- Indicates if the contract is renounced
+            is_potentially_scam TEXT,          -- Indicates if the token is potentially a scam
+            transfer_pausable TEXT,          -- Indicates if the token is transfer pausable
+            warning TEXT,          -- Warning message associated with the token
             FetchedAt TEXT                      -- Timestamp of when the contract data was fetched
         """
         self.create_table("tokens", schema)

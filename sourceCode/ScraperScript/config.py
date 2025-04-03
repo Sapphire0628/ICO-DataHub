@@ -185,6 +185,52 @@ headers3 = {
     'x-twitter-client-language': 'en',
 }
 
+
+
+DEXTOOL_COOKIES = {
+    '_pk_id.1.b299': '886da35a35cb467a.1742304087.',
+    'cookieyes-consent': 'consentid:dFJuaFdXUlhDVmxjWlN5bW5LVzg4M09PMHFxWkRYZ0s,consent:yes,action:no,necessary:yes,functional:yes,analytics:yes,performance:yes,advertisement:yes,other:yes',
+    '__gads': 'ID=b3fea49b79ac63f1:T=1742308341:RT=1742313380:S=ALNI_MaZR0Ts7ut8Lz48FetMpDH0GSGAbg',
+    '__gpi': 'UID=00001066894e84a8:T=1742308341:RT=1742313380:S=ALNI_MaOfqoekWRhJZM1RJpaZi3TfJXzgw',
+    '__eoi': 'ID=d56c8563635d9ce0:T=1742308341:RT=1742313380:S=AA-AfjbIhsccj6d3NnC11U69jGxM',
+    '_pk_ses.1.b299': '1',
+    '__cf_bm': 'HMZy7BQMdj5aBIx5HLdvmlJKLA4eeKraaXndhYp_qws-1742352399-1.0.1.1-E_CrgEf2076eh_mnXb2SAHOHTOzDv0tpkgUnxRqL_85aWI.9Y4kel.jOvSB3GHBQYfaJDHEhsZxCR.2X_..4oaG3hIacMIBsbgL1goc1AvA',
+    'cf_clearance': 'oihkjh5dFjO6D_OM14hDg29yY1fc7mX8eiwX4GgZJLo-1742352732-1.2.1.1-I9zwXPEgIxiox4C6t2g.WeKwc.gMKO_EO_qplDiylWfFNh2QGq06aSOMLNpvGRL7F5Zs5_KEUeMxK.a6wO0G02suOs3D0WX3hTw87zUzMNdj2uC6boy5E9PHmZAdazRWD9VtrqgdNOvr7v5U7PU3LkIp1BYMKHwmSclfjwvOYvgbcF.Ia0hvSiKcZYO33MrRAYP2_DzpQyIW58jgRvC4w4A2tZO_VO6g7.yI23X7zeuW3jTW7ausGzzIZMqrmGoEquaIfkb8hi8u9068oovR8CbT57mjlhAkauXoaMk5MIZps_30m6RvajMJtq05Pm9mN7pX_S_pp9elRvlveyevFtHCcAMolTLIrsFyFsTwf3nY4QYa0dyGe7.xeqJuSybOYn63sMg2GFkwLu9tfWQx3dy9CcbWyF432fYH4evSgAk',
+}
+
+DEXTOOL_HEADERS = {
+    'accept': 'application/json',
+    'accept-language': 'en-US,en;q=0.9,zh-TW;q=0.8,zh;q=0.7',
+    'content-type': 'application/json',
+    'priority': 'u=1, i',
+    'referer': 'https://www.dextools.io/app/en/ether/pairs',
+    'sec-ch-ua': '"Chromium";v="134", "Not:A-Brand";v="24", "Google Chrome";v="134"',
+    'sec-ch-ua-mobile': '?0',
+    'sec-ch-ua-platform': '"macOS"',
+    'sec-fetch-dest': 'empty',
+    'sec-fetch-mode': 'cors',
+    'sec-fetch-site': 'same-origin',
+    'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36',
+    # 'cookie': '_pk_id.1.b299=886da35a35cb467a.1742304087.; cookieyes-consent=consentid:dFJuaFdXUlhDVmxjWlN5bW5LVzg4M09PMHFxWkRYZ0s,consent:yes,action:no,necessary:yes,functional:yes,analytics:yes,performance:yes,advertisement:yes,other:yes; __gads=ID=b3fea49b79ac63f1:T=1742308341:RT=1742313380:S=ALNI_MaZR0Ts7ut8Lz48FetMpDH0GSGAbg; __gpi=UID=00001066894e84a8:T=1742308341:RT=1742313380:S=ALNI_MaOfqoekWRhJZM1RJpaZi3TfJXzgw; __eoi=ID=d56c8563635d9ce0:T=1742308341:RT=1742313380:S=AA-AfjbIhsccj6d3NnC11U69jGxM; _pk_ses.1.b299=1; __cf_bm=HMZy7BQMdj5aBIx5HLdvmlJKLA4eeKraaXndhYp_qws-1742352399-1.0.1.1-E_CrgEf2076eh_mnXb2SAHOHTOzDv0tpkgUnxRqL_85aWI.9Y4kel.jOvSB3GHBQYfaJDHEhsZxCR.2X_..4oaG3hIacMIBsbgL1goc1AvA; cf_clearance=oihkjh5dFjO6D_OM14hDg29yY1fc7mX8eiwX4GgZJLo-1742352732-1.2.1.1-I9zwXPEgIxiox4C6t2g.WeKwc.gMKO_EO_qplDiylWfFNh2QGq06aSOMLNpvGRL7F5Zs5_KEUeMxK.a6wO0G02suOs3D0WX3hTw87zUzMNdj2uC6boy5E9PHmZAdazRWD9VtrqgdNOvr7v5U7PU3LkIp1BYMKHwmSclfjwvOYvgbcF.Ia0hvSiKcZYO33MrRAYP2_DzpQyIW58jgRvC4w4A2tZO_VO6g7.yI23X7zeuW3jTW7ausGzzIZMqrmGoEquaIfkb8hi8u9068oovR8CbT57mjlhAkauXoaMk5MIZps_30m6RvajMJtq05Pm9mN7pX_S_pp9elRvlveyevFtHCcAMolTLIrsFyFsTwf3nY4QYa0dyGe7.xeqJuSybOYn63sMg2GFkwLu9tfWQx3dy9CcbWyF432fYH4evSgAk',
+}
+
+
+UNISWAP_HEADERS = {
+    'accept': '*/*',
+    'accept-language': 'en-US,en;q=0.9,zh-TW;q=0.8,zh;q=0.7',
+    'content-type': 'application/json',
+    'origin': 'https://app.uniswap.org',
+    'priority': 'u=1, i',
+    'referer': 'https://app.uniswap.org/',
+    'sec-ch-ua': '"Chromium";v="134", "Not:A-Brand";v="24", "Google Chrome";v="134"',
+    'sec-ch-ua-mobile': '?0',
+    'sec-ch-ua-platform': '"macOS"',
+    'sec-fetch-dest': 'empty',
+    'sec-fetch-mode': 'cors',
+    'sec-fetch-site': 'same-site',
+    'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36',
+}
+
 auth = [[cookies1, headers1], [cookies2, headers2], [cookies3, headers3]]
 
 get_tweet_features =  '{"profile_label_improvements_pcf_label_in_post_enabled":true,"rweb_tipjar_consumption_enabled":true,"responsive_web_graphql_exclude_directive_enabled":true,"verified_phone_label_enabled":false,"creator_subscriptions_tweet_preview_api_enabled":true,"responsive_web_graphql_timeline_navigation_enabled":true,"responsive_web_graphql_skip_user_profile_image_extensions_enabled":false,"premium_content_api_read_enabled":false,"communities_web_enable_tweet_community_results_fetch":true,"c9s_tweet_anatomy_moderator_badge_enabled":true,"responsive_web_grok_analyze_button_fetch_trends_enabled":false,"responsive_web_grok_analyze_post_followups_enabled":true,"responsive_web_jetfuel_frame":false,"responsive_web_grok_share_attachment_enabled":true,"articles_preview_enabled":true,"responsive_web_edit_tweet_api_enabled":true,"graphql_is_translatable_rweb_tweet_is_translatable_enabled":true,"view_counts_everywhere_api_enabled":true,"longform_notetweets_consumption_enabled":true,"responsive_web_twitter_article_tweet_consumption_enabled":true,"tweet_awards_web_tipping_enabled":false,"responsive_web_grok_analysis_button_from_backend":true,"creator_subscriptions_quote_tweet_preview_enabled":false,"freedom_of_speech_not_reach_fetch_enabled":true,"standardized_nudges_misinfo":true,"tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled":true,"rweb_video_timestamps_enabled":true,"longform_notetweets_rich_text_read_enabled":true,"longform_notetweets_inline_media_enabled":true,"responsive_web_grok_image_annotation_enabled":true,"responsive_web_enhance_cards_enabled":false}'
