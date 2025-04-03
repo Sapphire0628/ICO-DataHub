@@ -23,7 +23,9 @@ ICO-DataHub/
 ├──runScraperScript.sh                    # Run Script
 └──requirements.txt                       # python 环境配置
 ```
-
+## 快速导航
+- [数据抓取模块详细说明](sourceCode/ScraperScript/README.md)
+- [数据库结构说明](sourceCode/DatabaseManager/README.md)
 
 ## 安装与配置
 
